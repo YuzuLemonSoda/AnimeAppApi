@@ -15,13 +15,22 @@ public class AnimeService {
         this.animeRepository = animeRepository;
     }
 
-    public Iterable<Anime> list() {
+    public Iterable<Anime> list(){
         return animeRepository.findAll();
     }
 
-
-    public Iterable<Anime> save(List<Anime> animeList) {
-        return animeRepository.saveAll(animeList);
+    public Anime save(Anime anime) {
+        return animeRepository.save(anime);
     }
+
+    public Iterable<Anime> save(List<Anime> anime) {
+
+        return animeRepository.saveAll(anime);
+    }
+
+
+//    public Iterable<Anime> save(List<Anime> animeList) {
+//        return animeRepository.saveAll(animeList);
+//    }
 
 }
