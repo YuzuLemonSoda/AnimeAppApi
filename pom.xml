@@ -70,6 +70,39 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>6.2.0.CR2</version>
+			<type>pom</type>
+		</dependency>
+
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.13.3</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.vladmihalcea</groupId>
+			<artifactId>hibernate-types-52</artifactId>
+			<version>2.10.4</version>
+		</dependency>
+
+<!--	&lt;!&ndash;	Allows to pass String[] to our text[] in our database	&ndash;&gt;-->
+<!--		<dependency>-->
+<!--			<groupId>com.mopano</groupId>-->
+<!--			<artifactId>hibernate-array-contributor</artifactId>-->
+<!--			<version>1.2</version>-->
+<!--		</dependency>-->
+
+<!--	&lt;!&ndash;	Easily map JSON data to our models	&ndash;&gt;-->
+<!--		<dependency>-->
+<!--			<groupId>com.fasterxml.jackson.core</groupId>-->
+<!--			<artifactId>jackson-databind</artifactId>-->
+<!--		</dependency>-->
+
 	</dependencies>
 
 	<build>
