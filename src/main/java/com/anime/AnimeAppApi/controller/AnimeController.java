@@ -1,25 +1,72 @@
 package com.anime.AnimeAppApi.controller;
 
-import com.anime.AnimeAppApi.entity.Anime;
-import com.anime.AnimeAppApi.service.AnimeService;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import com.anime.AnimeAppApi.model.Anime;
+import com.anime.AnimeAppApi.repository.AnimeRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
 
+@CrossOrigin(origins = "http://localhost:8081")
 @RestController
-@RequestMapping("/anime")
+@RequestMapping("/animeCollection")
 public class AnimeController {
 
-    private final AnimeService animeService;
+    @Autowired
+    private AnimeRepository animeRepository;
 
-    public AnimeController(AnimeService animeService) {
-        this.animeService = animeService;
+    @GetMapping("/anime")
+    public ResponseEntity<List<Anime>> getAllAnime(@RequestParam(required = false) String title) {
+        try {
+            List<Anime> animeList = new ArrayList<Anime>();
+
+            if (title == null) {
+                animeRepository.findAll().forEach(animeList::add);
+            } else {
+                animeRepository.findByTitle(title).forEach(animeList::add);
+            }
+
+            if (animeList.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+
+            return new ResponseEntity<>(animeList, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
     }
 
-    @GetMapping("/list")
-    public Iterable<Anime> list() {
-        return animeService.list();
+    @GetMapping("/anime/{id}")
+    public ResponseEntity<Anime> getAnimeById(@PathVariable("id") String id) {
+
+        Optional<Anime> animeData = animeRepository.findById(id);
+
+        if(animeData.isPresent()) {
+            return new ResponseEntity<>(animeData.get(), HttpStatus.OK);
+        } else {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+        }
     }
+
+//    @GetMapping("/anime/ranking")
+//    public ResponseEntity<Anime> getAnimeByRanking(@)
+
+
+//    private final AnimeService animeService;
+
+//    public AnimeController(AnimeService animeService) {
+//        this.animeService = animeService;
+//    }
+
+//    @GetMapping("/list")
+//    public Iterable<Anime> list() {
+//        return animeService.list();
+//    }
+
+
 
 }
