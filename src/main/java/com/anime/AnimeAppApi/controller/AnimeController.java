@@ -65,6 +65,7 @@ public class AnimeController {
             query.addCriteria(Criteria.where("ranking").lt(11));
             List<Anime> animeTop10 = mongoTemplate.find(query, Anime.class);
             return new ResponseEntity<>(animeTop10, HttpStatus.OK);
+
     }
 
 
