@@ -1,12 +1,14 @@
 package com.anime.AnimeAppApi.repository;
 
-import com.anime.AnimeAppApi.entity.Anime;
-import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
-import org.springframework.data.repository.CrudRepository;
-import org.springframework.stereotype.Repository;
+import com.anime.AnimeAppApi.model.Anime;
+import org.springframework.data.mongodb.repository.MongoRepository;
 
-@Repository
-@EnableJpaRepositories
-public interface AnimeRepository extends CrudRepository<Anime, String> {
+import java.util.List;
+
+
+public interface AnimeRepository extends MongoRepository<Anime, String> {
+
+    List<Anime> findByTitle(String title);
+
 
 }
