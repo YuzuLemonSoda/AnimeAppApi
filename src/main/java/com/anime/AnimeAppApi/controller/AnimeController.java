@@ -3,9 +3,12 @@ package com.anime.AnimeAppApi.controller;
 import com.anime.AnimeAppApi.model.Anime;
 import com.anime.AnimeAppApi.repository.AnimeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.query.Criteria;
+import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.data.mongodb.core.MongoTemplate;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,6 +21,9 @@ public class AnimeController {
 
     @Autowired
     private AnimeRepository animeRepository;
+
+    @Autowired
+    private MongoTemplate mongoTemplate;
 
     @GetMapping("/anime")
     public ResponseEntity<List<Anime>> getAllAnime(@RequestParam(required = false) String title) {
@@ -52,21 +58,14 @@ public class AnimeController {
         }
     }
 
-//    @GetMapping("/anime/ranking")
-//    public ResponseEntity<Anime> getAnimeByRanking(@)
+    @GetMapping("/anime/rankingTop10")
+    public ResponseEntity<List<Anime>> getAnimeByRanking() {
 
-
-//    private final AnimeService animeService;
-
-//    public AnimeController(AnimeService animeService) {
-//        this.animeService = animeService;
-//    }
-
-//    @GetMapping("/list")
-//    public Iterable<Anime> list() {
-//        return animeService.list();
-//    }
-
+            Query query = new Query();
+            query.addCriteria(Criteria.where("ranking").lt(11));
+            List<Anime> animeTop10 = mongoTemplate.find(query, Anime.class);
+            return new ResponseEntity<>(animeTop10, HttpStatus.OK);
+    }
 
 
 }
