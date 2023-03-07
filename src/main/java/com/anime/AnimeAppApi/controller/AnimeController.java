@@ -67,4 +67,12 @@ public class AnimeController {
             return new ResponseEntity<>(animeTop5, HttpStatus.OK);
     }
 
+    @GetMapping("/anime/upcomingAnime")
+    public ResponseEntity<List<Anime>> getUpcomingAnime() {
+        Query query = new Query();
+        query.addCriteria(Criteria.where("status").is("Not yet aired")).limit(5);
+        List<Anime> upcomingAnime = mongoTemplate.find(query, Anime.class);
+        return new ResponseEntity<>(upcomingAnime, HttpStatus.OK);
+    }
+
 }
