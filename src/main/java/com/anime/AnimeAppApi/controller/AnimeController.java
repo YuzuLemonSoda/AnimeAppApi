@@ -58,13 +58,13 @@ public class AnimeController {
         }
     }
 
-    @GetMapping("/anime/rankingTop10")
+    @GetMapping("/anime/rankingTop5")
     public ResponseEntity<List<Anime>> getAnimeByRanking() {
 
             Query query = new Query();
-            query.addCriteria(Criteria.where("ranking").lt(11));
-            List<Anime> animeTop10 = mongoTemplate.find(query, Anime.class);
-            return new ResponseEntity<>(animeTop10, HttpStatus.OK);
+            query.addCriteria(Criteria.where("ranking").lt(6));
+            List<Anime> animeTop5 = mongoTemplate.find(query, Anime.class);
+            return new ResponseEntity<>(animeTop5, HttpStatus.OK);
     }
 
 }
