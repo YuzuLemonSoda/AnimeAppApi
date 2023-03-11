@@ -1,0 +1,185 @@
+
+public class Aired{
+    public String from;
+    @JsonProperty("to")
+    public String myto;
+    public Prop prop;
+}
+
+public class Broadcast{
+    public String day;
+    public String time;
+    public String timezone;
+    public String string;
+}
+
+public class Data{
+    public int mal_id;
+    public String url;
+    public Images images;
+    public Trailer trailer;
+    public boolean approved;
+    public ArrayList<Title> titles;
+    public String title;
+    public String title_english;
+    public String title_japanese;
+    public ArrayList<String> title_synonyms;
+    public String type;
+    public String source;
+    public int episodes;
+    public String status;
+    public boolean airing;
+    public Aired aired;
+    public String duration;
+    public String rating;
+    public int score;
+    public int scored_by;
+    public int rank;
+    public int popularity;
+    public int members;
+    public int favorites;
+    public String synopsis;
+    public String background;
+    public String season;
+    public int year;
+    public Broadcast broadcast;
+    public ArrayList<Producer> producers;
+    public ArrayList<Licensor> licensors;
+    public ArrayList<Studio> studios;
+    public ArrayList<Genre> genres;
+    public ArrayList<ExplicitGenre> explicit_genres;
+    public ArrayList<Theme> themes;
+    public ArrayList<Demographic> demographics;
+    public ArrayList<Relation> relations;
+    public Theme theme;
+    public ArrayList<External> external;
+    public ArrayList<Streaming> streaming;
+}
+
+public class Demographic{
+    public int mal_id;
+    public String type;
+    public String name;
+    public String url;
+}
+
+public class Entry{
+    public int mal_id;
+    public String type;
+    public String name;
+    public String url;
+}
+
+public class ExplicitGenre{
+    public int mal_id;
+    public String type;
+    public String name;
+    public String url;
+}
+
+public class External{
+    public String name;
+    public String url;
+}
+
+public class From{
+    public int day;
+    public int month;
+    public int year;
+}
+
+public class Genre{
+    public int mal_id;
+    public String type;
+    public String name;
+    public String url;
+}
+
+public class Images{
+    public Jpg jpg;
+    public Webp webp;
+}
+
+public class Jpg{
+    public String image_url;
+    public String small_image_url;
+    public String large_image_url;
+}
+
+public class Licensor{
+    public int mal_id;
+    public String type;
+    public String name;
+    public String url;
+}
+
+public class Producer{
+    public int mal_id;
+    public String type;
+    public String name;
+    public String url;
+}
+
+public class Prop{
+    public From from;
+    @JsonProperty("to")
+    public To myto;
+    public String string;
+}
+
+public class Relation{
+    public String relation;
+    public ArrayList<Entry> entry;
+}
+
+public class Root{
+    public Data data;
+}
+
+public class Streaming{
+    public String name;
+    public String url;
+}
+
+public class Studio{
+    public int mal_id;
+    public String type;
+    public String name;
+    public String url;
+}
+
+public class Theme{
+    public int mal_id;
+    public String type;
+    public String name;
+    public String url;
+}
+
+public class Theme2{
+    public ArrayList<String> openings;
+    public ArrayList<String> endings;
+}
+
+public class Title{
+    public String type;
+    public String title;
+}
+
+public class To{
+    public int day;
+    public int month;
+    public int year;
+}
+
+public class Trailer{
+    public String youtube_id;
+    public String url;
+    public String embed_url;
+}
+
+public class Webp{
+    public String image_url;
+    public String small_image_url;
+    public String large_image_url;
+}
+
