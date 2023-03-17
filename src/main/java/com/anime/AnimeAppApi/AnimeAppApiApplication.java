@@ -1,6 +1,7 @@
 package com.anime.AnimeAppApi;
 
-import com.anime.AnimeAppApi.jikan.model.Root;
+import com.anime.AnimeAppApi.jikan.model.full.Root;
+import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.core.util.DefaultPrettyPrinter;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -24,13 +25,57 @@ public class AnimeAppApiApplication {
 	public static void main(String[] args) throws IOException, InterruptedException {
 		SpringApplication.run(AnimeAppApiApplication.class, args);
 
-		int[] jikanAnimeId = {5114, 41467};
-		List<Root> list = new ArrayList<Root>();
+//		JikanApiAnimeGetTop5();
+//		JikanApiAnimeSeasonNow();
+	}
+
+	public static void JikanApiAnimeGetTop5() throws IOException, InterruptedException{
+			int[] jikanAnimeId = {5114, 41467, 9253, 28977, 43608};
+			List<Root> list = new ArrayList<Root>();
+			ObjectMapper mapper = new ObjectMapper();
+
+			for(int i = 0; i < jikanAnimeId.length; i++) {
+
+				String url = String.format("https://api.jikan.moe/v4/anime/%2d/full", jikanAnimeId[i]);
+
+				HttpClient client = HttpClient.newHttpClient();
+				HttpRequest request = HttpRequest.newBuilder()
+						.uri(URI.create(url))
+						.header("Accept", "application/json")
+						.timeout(Duration.ofSeconds(15))
+						.build();
+
+				HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+
+				System.out.println(response.body());
+
+				mapper.enable(DeserializationFeature.ACCEPT_SINGLE_VALUE_AS_ARRAY);
+
+				Root obj = mapper.readValue(response.body(), Root.class);
+				System.out.println(obj);
+				list.add(obj);
+				ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
+
+				writer.writeValue(new File("src/main/resources/json/Jikan_Anime.json"), obj);
+			}
+
+
+			ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
+			String jikanAnimeJson = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(list);
+			System.out.println(jikanAnimeJson);
+			writer.writeValue(new File("src/main/resources/json/Jikan_Anime.json"), list);
+
+			System.exit(0);
+		}
+
+	public static void JikanApiAnimeSeasonNow() throws IOException, InterruptedException {
+
+		List<com.anime.AnimeAppApi.jikan.model.seasonNow.Root> list = new ArrayList<>();
 		ObjectMapper mapper = new ObjectMapper();
+		int[] pages = {1, 2, 3};
 
-		for(int i = 0; i < jikanAnimeId.length; i++) {
-
-			String url = String.format("https://api.jikan.moe/v4/anime/%2d/full", jikanAnimeId[i]);
+		for(int i = 0; i < pages.length; i++) {
+			String url = String.format("https://api.jikan.moe/v4/seasons/now?page=%d", pages[i]);
 
 			HttpClient client = HttpClient.newHttpClient();
 			HttpRequest request = HttpRequest.newBuilder()
@@ -43,24 +88,19 @@ public class AnimeAppApiApplication {
 
 			System.out.println(response.body());
 
-			mapper.enable(DeserializationFeature.ACCEPT_SINGLE_VALUE_AS_ARRAY);
-
-			Root obj = mapper.readValue(response.body(), Root.class);
-			System.out.println(obj);
-			list.add(obj);
+			com.anime.AnimeAppApi.jikan.model.seasonNow.Root roots = mapper.readValue(response.body(), com.anime.AnimeAppApi.jikan.model.seasonNow.Root.class);
+			System.out.println(roots);
+			list.add(roots);
 			ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
-//			String jikanAnimeJson = mapper.writeValueAsString(obj);
-//			String jikanAnimeJson = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(list);
-//			System.out.println(jikanAnimeJson);
-			writer.writeValue(new File("src/main/resources/json/Jikan_Anime.json"), obj);
-//			System.out.println("File has been Saved!");
-		}
 
+			writer.writeValue(new File("src/main/resources/json/Jikan_Anime_Season_Now.json"), roots);
+
+		}
 
 		ObjectWriter writer = mapper.writer(new DefaultPrettyPrinter());
 		String jikanAnimeJson = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(list);
 		System.out.println(jikanAnimeJson);
-		writer.writeValue(new File("src/main/resources/json/Jikan_Anime.json"), list);
+		writer.writeValue(new File("src/main/resources/json/Jikan_Anime_Season_Now.json"), list);
 
 		System.exit(0);
 	}
