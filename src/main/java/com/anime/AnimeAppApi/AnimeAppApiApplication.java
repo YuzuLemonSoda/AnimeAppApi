@@ -30,7 +30,7 @@ public class AnimeAppApiApplication {
 	}
 
 	public static void JikanApiAnimeGetTop5() throws IOException, InterruptedException{
-			int[] jikanAnimeId = {5114, 41467, 9253, 28977, 43608};
+			int[] jikanAnimeId = {51535, 5114, 41467, 9253, 28977};
 			List<Root> list = new ArrayList<Root>();
 			ObjectMapper mapper = new ObjectMapper();
 

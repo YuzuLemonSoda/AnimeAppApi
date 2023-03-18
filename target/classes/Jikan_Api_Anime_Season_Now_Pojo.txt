@@ -1,7 +1,4 @@
-// import com.fasterxml.jackson.databind.ObjectMapper; // version 2.11.1
-// import com.fasterxml.jackson.annotation.JsonProperty; // version 2.11.1
-/* ObjectMapper om = new ObjectMapper();
-Root root = om.readValue(myJsonString, Root.class); */
+
 public class Aired{
     public Date from;
     @JsonProperty("to")
@@ -17,7 +14,7 @@ public class Broadcast{
     public String string;
 }
 
-public class Datum{
+public class Data{
     public int mal_id;
     public String url;
     public Images images;
@@ -27,7 +24,7 @@ public class Datum{
     public String title;
     public String title_english;
     public String title_japanese;
-    public Object title_synonyms;
+    public ArrayList<String> title_synonyms;
     public String type;
     public String source;
     public int episodes;
@@ -48,15 +45,19 @@ public class Datum{
     public int year;
     public Broadcast broadcast;
     public ArrayList<Producer> producers;
-    public Object licensors;
+    public ArrayList<Licensor> licensors;
     public ArrayList<Studio> studios;
     public ArrayList<Genre> genres;
-    public ExplicitGenres explicit_genres;
-    public Object themes;
-    public Object demographics;
+    public ArrayList<Object> explicit_genres;
+    public ArrayList<Theme> themes;
+    public ArrayList<Demographic> demographics;
 }
 
-public class ExplicitGenres{
+public class Demographic{
+    public int mal_id;
+    public String type;
+    public String name;
+    public String url;
 }
 
 public class From{
@@ -116,10 +117,17 @@ public class Prop{
 
 public class Root{
     public Pagination pagination;
-    public ArrayList<Datum> data;
+    public ArrayList<Data> data;
 }
 
 public class Studio{
+    public int mal_id;
+    public String type;
+    public String name;
+    public String url;
+}
+
+public class Theme{
     public int mal_id;
     public String type;
     public String name;

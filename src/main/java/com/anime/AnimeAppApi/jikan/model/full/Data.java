@@ -1,14 +1,17 @@
 package com.anime.AnimeAppApi.jikan.model.full;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import org.springframework.data.mongodb.core.mapping.MongoId;
 
 import java.util.ArrayList;
-
 
 @lombok.Data
 public class Data {
 
-    public int mal_id;
+    @MongoId
+    public long mal_id;
+
     public String url;
     public Images images;
     @JsonIgnore

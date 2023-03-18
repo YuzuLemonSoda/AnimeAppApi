@@ -1,12 +1,16 @@
 package com.anime.AnimeAppApi.jikan.model.seasonNow;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
+import org.springframework.data.mongodb.core.mapping.MongoId;
 
 import java.util.ArrayList;
 
 @lombok.Data
 public class Data {
-    public int mal_id;
+
+    @MongoId
+    public long mal_id;
+
     public String url;
     public Images images;
     public Trailer trailer;
