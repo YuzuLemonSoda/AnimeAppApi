@@ -1,4 +1,14 @@
 [ {
+  "pagination" : {
+    "last_visible_page" : 3,
+    "has_next_page" : true,
+    "current_page" : 1,
+    "items" : {
+      "count" : 25,
+      "total" : 56,
+      "per_page" : 25
+    }
+  },
   "data" : [ {
     "mal_id" : 49387,
     "url" : "https://myanimelist.net/anime/49387/Vinland_Saga_Season_2",
@@ -54,7 +64,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673308800000,
+      "from" : "2023-01-10T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 10,
@@ -62,9 +72,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 10, 2023 to ?",
@@ -72,12 +82,12 @@
     },
     "duration" : "25 min per ep",
     "rating" : "R - 17+ (violence & profanity)",
-    "score" : 8.72,
-    "scored_by" : 49608,
+    "score" : 8.71,
+    "scored_by" : 50532,
     "rank" : 46,
-    "popularity" : 624,
-    "members" : 341802,
-    "favorites" : 3835,
+    "popularity" : 616,
+    "members" : 343458,
+    "favorites" : 3864,
     "synopsis" : "After his father's death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms. However, fate has other plans: his village is invaded once again. Einar watches helplessly as the marauding Danes burn his lands and slaughter his family. The invaders capture Einar and take him back to Denmark as a slave. \n\nEinar clings to his mother's final words to survive. He is purchased by Ketil, a kind slave owner and landlord who promises that Einar can regain his freedom in return for working in the fields. Soon, Einar encounters his new partner in farm cultivation—Thorfinn, a dejected and melancholic slave. As Einar and Thorfinn work together toward their freedom, they are haunted by both sins of the past and the ploys of the present. Yet they carry on, grasping for a glimmer of hope, redemption, and peace in a world that is nothing but unjust and unforgiving.\n\n[Written by MAL Rewrite]",
     "background" : "Vinland Saga Season 2 was released on Blu-ray and DVD in two volumes from June 21, 2023, to August 23, 2023.",
     "season" : "winter",
@@ -209,7 +219,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673136000000,
+      "from" : "2023-01-08T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 8,
@@ -217,9 +227,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 8, 2023 to ?",
@@ -227,12 +237,12 @@
     },
     "duration" : "23 min",
     "rating" : "R - 17+ (violence & profanity)",
-    "score" : 7.13,
-    "scored_by" : 25320,
-    "rank" : 3450,
-    "popularity" : 848,
-    "members" : 256380,
-    "favorites" : 3664,
+    "score" : 7.12,
+    "scored_by" : 25621,
+    "rank" : 3499,
+    "popularity" : 846,
+    "members" : 257023,
+    "favorites" : 3673,
     "synopsis" : "As peace returns to the demon realm, Anos Voldigoad wishes nothing more than to put his reputation as the Demon King of Tyranny to rest and go back to being a misfit at the prestigious Demon King Academy. Unfortunately, any tranquility is fleeting: sinister demons, kings, and deities plot Anos's demise from the shadows.\n\nRumors spread about the \"Child of God,\" a being whose power may rival that of Anos. To uncover the truth and eliminate the potential threat, Anos must journey deep into the land of spirits. However, the spirit world is shrouded in mystery, and it may only be entered after undergoing a series of difficult trials.\n\nWith unrivaled power and confidence, Anos braces himself to defeat various formidable enemies with grandiose titles. But he—with the assistance of his trusted allies—will barely have to break a sweat as the true Demon King of Tyranny.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -400,7 +410,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673136000000,
+      "from" : "2023-01-08T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 8,
@@ -419,11 +429,11 @@
     "duration" : "23 min per ep",
     "rating" : "R - 17+ (violence & profanity)",
     "score" : 7.66,
-    "scored_by" : 31119,
-    "rank" : 1249,
-    "popularity" : 908,
-    "members" : 239179,
-    "favorites" : 1765,
+    "scored_by" : 32084,
+    "rank" : 1260,
+    "popularity" : 903,
+    "members" : 240794,
+    "favorites" : 1784,
     "synopsis" : "In spite of his best time-leaping efforts, Takemichi Hanagaki continuously fails to prevent the present-day death of Hinata Tachibana, his adolescent love. The adult Takemichi grapples with grief and the ramifications of the Tokyo Manji gang's criminal empire—an unintended product of his timeline meddling. Though the gang once operated under the idealistic Manjirou \"Mikey\" Sano, it has now been taken over by the malicious Tetta Kisaki and, as a result, has abandoned its original optimistic intent.\n\nDespite feeling hopeless, Takemichi travels to the past once again to investigate Black Dragon, a rival motorcycle gang whose actions ultimately lead to Hinata's demise. There, he meets the young Hakkai Shiba, a fellow gang member whose older brother, Taiju, tyrannically rules Black Dragon. When Taiju brutally beats Takemichi in a one-sided street brawl, Hakkai attempts to withdraw from Tokyo Manji in apology—an act that Takemichi must prevent to spare Hakkai a grim future.\n\nThrough a shared tragedy, Takemichi bonds with Chifuyu Matsuno, establishing a close comradery both boys desperately need. With Chifuyu on his side, Takemichi works to unravel the fates of Black Dragon's members, fighting to create a happy future for his loved ones.\n\n[Written by MAL Rewrite]",
     "background" : "Tokyo Revengers: Seiya Kessen-hen was released on Blu-ray and DVD in three volumes from March 15, 2023, to May 24, 2023.",
     "season" : "winter",
@@ -455,6 +465,11 @@
       "name" : "AT-X",
       "url" : "https://myanimelist.net/anime/producer/238/AT-X"
     }, {
+      "mal_id" : 417,
+      "type" : "anime",
+      "name" : "Disney Platform Distribution",
+      "url" : "https://myanimelist.net/anime/producer/417/Disney_Platform_Distribution"
+    }, {
       "mal_id" : 539,
       "type" : "anime",
       "name" : "Ultra Super Pictures",
@@ -470,12 +485,7 @@
       "name" : "Sammy",
       "url" : "https://myanimelist.net/anime/producer/1345/Sammy"
     } ],
-    "licensors" : [ {
-      "mal_id" : 417,
-      "type" : "anime",
-      "name" : "Disney Platform Distribution",
-      "url" : "https://myanimelist.net/anime/producer/417/Disney_Platform_Distribution"
-    } ],
+    "licensors" : [ ],
     "studios" : [ {
       "mal_id" : 839,
       "type" : "anime",
@@ -571,7 +581,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672876800000,
+      "from" : "2023-01-05T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 5,
@@ -589,12 +599,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.64,
-    "scored_by" : 38867,
-    "rank" : 1288,
-    "popularity" : 1000,
-    "members" : 218115,
-    "favorites" : 1265,
+    "score" : 7.65,
+    "scored_by" : 40389,
+    "rank" : 1262,
+    "popularity" : 979,
+    "members" : 221559,
+    "favorites" : 1312,
     "synopsis" : "Childhood friends Tomo Aizawa and Junichirou \"Jun\" Kubota do everything together, whether it be training or just enjoying a fun day out. Anyone would think that these two are best friends for life. The only issue is that the tomboyish Tomo is in love with Jun, but he regards her like a brother.\n\nAt the start of their first year of high school, Tomo confesses her feelings to Jun. However, her rough mannerisms and lack of hesitance to throw a punch do nothing to sway Jun's heart. Realizing that he will remain indifferent to her affections unless she does something about it, Tomo must find a way to knock some sense into Jun and open his eyes to what is right in front of him.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -719,7 +729,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673136000000,
+      "from" : "2023-01-08T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 8,
@@ -738,11 +748,11 @@
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 7.46,
-    "scored_by" : 24674,
-    "rank" : 1879,
-    "popularity" : 1047,
-    "members" : 209042,
-    "favorites" : 1556,
+    "scored_by" : 25120,
+    "rank" : 1876,
+    "popularity" : 1044,
+    "members" : 209734,
+    "favorites" : 1565,
     "synopsis" : "Hayase Nagatoro and Naoto Hachiouji have grown closer: the girl spends more time than ever in the art club room with her senpai. Although he is always on edge, Naoto no longer seems to mind Nagatoro's presence. Time and again, Naoto demonstrates his hidden, cool demeanor, and Nagatoro displays her possessive tendencies. However, they still can not seem to completely close the distance between them. It is clear to everyone else that the pair have feelings for each other.\n\nFor Nagatoro, there is nothing more entertaining than toying with Naoto. But as the girl shows no plans to stop teasing her senpai, it is only a matter of time before they realize how they truly feel.\n\n[Written by MAL Rewrite]",
     "background" : "Ijiranaide, Nagatoro-san 2nd Attack was released on Blu-ray in four volumes from March 8, 2023 to June 7, 2023.",
     "season" : "winter",
@@ -852,7 +862,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673136000000,
+      "from" : "2023-01-08T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 8,
@@ -860,9 +870,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 8, 2023 to ?",
@@ -871,11 +881,11 @@
     "duration" : "23 min",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 7.48,
-    "scored_by" : 24375,
-    "rank" : 1802,
-    "popularity" : 1052,
-    "members" : 208167,
-    "favorites" : 1536,
+    "scored_by" : 24763,
+    "rank" : 1787,
+    "popularity" : 1047,
+    "members" : 209461,
+    "favorites" : 1544,
     "synopsis" : "In a post-apocalyptic world overrun by alien-crafted \"Machine Lifeforms,\" humanity is preparing for its last stand. Forced to retreat to the Moon for safety, humans are pinning their hopes on a group of man-made androids known as YoRHa soldiers. Led by the all-purpose battle android YoRHa 2-gou B-gata \"2B,\" the group will fight to take control of the Earth back from its invaders.\n\nAs war against the machines rages on, the YoRHa slowly begin to see the first shards of truth underlying the brutal conflict. Facing the harsh reality before her, the unwavering warrior 2B starts to question her very existence and just how much she must sacrifice for the sake of humanity.\n\n[Written by MAL Rewrite]",
     "background" : "Due to COVID-19, the broadcast was delayed following its third episode on January 22, 2023 until February 19, 2023.",
     "season" : "winter",
@@ -983,7 +993,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672790400000,
+      "from" : "2023-01-04T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 4,
@@ -1002,11 +1012,11 @@
     "duration" : "23 min per ep",
     "rating" : "R - 17+ (violence & profanity)",
     "score" : 8.64,
-    "scored_by" : 19139,
+    "scored_by" : 19545,
     "rank" : 69,
-    "popularity" : 1129,
-    "members" : 189789,
-    "favorites" : 2041,
+    "popularity" : 1125,
+    "members" : 190711,
+    "favorites" : 2070,
     "synopsis" : "Fourth season of Bungou Stray Dogs.",
     "background" : null,
     "season" : "winter",
@@ -1177,7 +1187,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673395200000,
+      "from" : "2023-01-11T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 11,
@@ -1185,9 +1195,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 11, 2023 to ?",
@@ -1195,12 +1205,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.39,
-    "scored_by" : 15264,
-    "rank" : 2147,
-    "popularity" : 1245,
-    "members" : 172729,
-    "favorites" : 1061,
+    "score" : 7.38,
+    "scored_by" : 15602,
+    "rank" : 2181,
+    "popularity" : 1242,
+    "members" : 173343,
+    "favorites" : 1064,
     "synopsis" : "After achieving fruitful results in New World Online's previous events, the now famous Maple Tree guild is excited to explore the new floors introduced in game. As if their guild was not already feared enough, each member is motivated to find stronger skills for themselves in order to greatly expand their options in future battles. Not forgetting the importance of networking, the guild also forges amicable relationships with other notable guilds, such as the Kingdom of the Flame Emperor and the Congregation of the Holy Swords.\n\nWith their eccentric guild master Maple at the forefront, the members of Maple Tree continue to stumble upon creative ways to implement their skills, driving the game developers crazy along the way.\n\n[Written by MAL Rewrite]",
     "background" : "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2 was initially scheduled to broadcast in 2022, but it was delayed until January 2023. The series was released on Blu-ray and DVD in three volumes from March 24, 2023, to May 24, 2023.",
     "season" : "winter",
@@ -1338,7 +1348,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673049600000,
+      "from" : "2023-01-07T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 7,
@@ -1356,12 +1366,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.94,
-    "scored_by" : 32883,
-    "rank" : 665,
-    "popularity" : 1262,
-    "members" : 170649,
-    "favorites" : 2049,
+    "score" : 7.93,
+    "scored_by" : 34033,
+    "rank" : 678,
+    "popularity" : 1247,
+    "members" : 172767,
+    "favorites" : 2108,
     "synopsis" : "Mahiru Shiina is worthy of her nickname \"Angel\": she is a divine beauty loved by all, and she excels in both academics and athletics. Shiina lives in an entirely different world from Amane Fujimiya, her next-door neighbor. Despite living so close together, they have never spoken once. But their silence is broken when Fujimiya spots Shiina gloomily sitting on a swing amidst a heavy rainstorm and lends her his umbrella. \n\nWhen Fujimiya catches a cold the next day, Shiina wishes to return the favor for the umbrella by nursing him back to health. Believing that this would be their first and last interaction, he silently appreciates her kindness. However, Shiina—who can not help but worry about Fujimiya's lack of tidiness and proper nutrition—begins to cook and clean for him. As the unlikely pair spend time together in Fujimiya's apartment, they explore the true nature of their relationship and the gentle emotions that emerge from it.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -1496,7 +1506,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673049600000,
+      "from" : "2023-01-07T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 7,
@@ -1514,12 +1524,12 @@
     },
     "duration" : "24 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.85,
-    "scored_by" : 23103,
-    "rank" : 805,
-    "popularity" : 1433,
-    "members" : 143457,
-    "favorites" : 1041,
+    "score" : 7.86,
+    "scored_by" : 23922,
+    "rank" : 792,
+    "popularity" : 1416,
+    "members" : 146004,
+    "favorites" : 1093,
     "synopsis" : "On Christmas Eve, four-year-old Miri Unasaka arrives in Tokyo completely alone, in search of her father. The bright lights and merry atmosphere guide Miri to a big hotel and a man with a delicious-looking cake. However, the child has just unknowingly walked into the center of an elaborate, foolproof plan for assassinating a dangerous mafia boss.\n\nProfessional assassins Kazuki Kurusu and Rei Suwa live together, fleeing memories of their grim childhoods and avoiding emotional connections. When their mission goes awry and they end up bringing Miri home, there is only one reasonable thing to do: return Miri to her mother. But the girl's innocent laugh and pure worldview quickly enamor her to Kazuki, who secretly enjoys playing a parent, and it is not long before Rei's impenetrable heart makes room for Miri.\n\nMiri's every move is unpredictable, and Kazuki and Rei find raising an energetic child harder than any of their missions. Although it presents a great risk to their careers, Kazuki and Rei—both assuming the affectionate nickname \"papa\"—decide to provide Miri with a normal childhood despite all the odds stacked against them.\n\n[Written by MAL Rewrite]",
     "background" : "Buddy Daddies was released on Blu-ray and DVD in six volumes from March 22, 2023, to August 23, 2023.",
     "season" : "winter",
@@ -1652,7 +1662,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672790400000,
+      "from" : "2023-01-04T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 4,
@@ -1670,12 +1680,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.4,
-    "scored_by" : 19754,
-    "rank" : 2093,
-    "popularity" : 1549,
-    "members" : 129287,
-    "favorites" : 721,
+    "score" : 7.39,
+    "scored_by" : 20134,
+    "rank" : 2136,
+    "popularity" : 1544,
+    "members" : 130132,
+    "favorites" : 726,
     "synopsis" : "Kind-hearted Himuro-kun is unfortunate: when in deep concentration, stressed, or flustered, he involuntarily creates blizzard conditions for himself and anyone in his vicinity. During one such incident on the first day of his new job, Himuro-kun encounters the beautiful Fuyutsuki-san, who helps him break out of his nerve-induced ice. As it turns out, Fuyutsuki-san is his new coworker.\n\nAt the office, the cool-headed Fuyutsuki-san offers simple and rational solutions to Himuro-kun's icy dilemmas—everything from helping him garden without freezing his plants to ensuring he does not melt during their tropical work retreat. Every time Fuyutsuki-san does something kind for him, the tempest of emotions he experiences inside embarrassingly manifests on the outside.\n\nAs a result of the frequent snowstorms, Himuro-kun's feelings for Fuyutsuki-san are impossible to hide. Even though Fuyutsuki-san is unfamiliar with love, Himuro-kun remains determined to repay her kindness and warm her heart in any way he can.\n\n[Written by MAL Rewrite]",
     "background" : "Koori Zokusei Danshi to Cool na Douryou Joshi was released on Blu-ray in four volumes from April 28, 2023, to July 27, 2023.",
     "season" : "winter",
@@ -1772,179 +1782,17 @@
       "name" : "Adult Cast",
       "url" : "https://myanimelist.net/anime/genre/50/Adult_Cast"
     }, {
+      "mal_id" : 6,
+      "type" : "anime",
+      "name" : "Mythology",
+      "url" : "https://myanimelist.net/anime/genre/6/Mythology"
+    }, {
       "mal_id" : 48,
       "type" : "anime",
       "name" : "Workplace",
       "url" : "https://myanimelist.net/anime/genre/48/Workplace"
     } ],
     "demographics" : [ ]
-  }, {
-    "mal_id" : 51815,
-    "url" : "https://myanimelist.net/anime/51815/Kubo-san_wa_Mob_wo_Yurusanai",
-    "images" : {
-      "jpg" : {
-        "image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330.jpg",
-        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330t.jpg",
-        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330l.jpg"
-      },
-      "webp" : {
-        "image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330.webp",
-        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330t.webp",
-        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330l.webp"
-      },
-      "image_url" : null,
-      "small_image_url" : null,
-      "medium_image_url" : null,
-      "large_image_url" : null,
-      "maximum_image_url" : null
-    },
-    "trailer" : {
-      "youtube_id" : "iaVsFCj1gAs",
-      "url" : "https://www.youtube.com/watch?v=iaVsFCj1gAs",
-      "embed_url" : "https://www.youtube.com/embed/iaVsFCj1gAs?enablejsapi=1&wmode=opaque&autoplay=1",
-      "images" : {
-        "jpg" : null,
-        "webp" : null,
-        "image_url" : "https://img.youtube.com/vi/iaVsFCj1gAs/default.jpg",
-        "small_image_url" : "https://img.youtube.com/vi/iaVsFCj1gAs/sddefault.jpg",
-        "medium_image_url" : "https://img.youtube.com/vi/iaVsFCj1gAs/mqdefault.jpg",
-        "large_image_url" : "https://img.youtube.com/vi/iaVsFCj1gAs/hqdefault.jpg",
-        "maximum_image_url" : "https://img.youtube.com/vi/iaVsFCj1gAs/maxresdefault.jpg"
-      }
-    },
-    "approved" : true,
-    "titles" : [ {
-      "type" : "Default",
-      "title" : "Kubo-san wa Mob wo Yurusanai"
-    }, {
-      "type" : "Synonym",
-      "title" : "Kubo-san wa Boku wo Yurusanai"
-    }, {
-      "type" : "Synonym",
-      "title" : "Kubo-san Doesn't Leave Me Be (a Mob)"
-    }, {
-      "type" : "Japanese",
-      "title" : "久保さんは僕を許さない"
-    }, {
-      "type" : "English",
-      "title" : "Kubo Won't Let Me Be Invisible"
-    } ],
-    "title" : "Kubo-san wa Mob wo Yurusanai",
-    "title_english" : "Kubo Won't Let Me Be Invisible",
-    "title_japanese" : "久保さんは僕を許さない",
-    "title_synonyms" : [ "Kubo-san wa Boku wo Yurusanai", "Kubo-san Doesn't Leave Me Be (a Mob)" ],
-    "type" : "TV",
-    "source" : "Manga",
-    "episodes" : 12,
-    "status" : "Currently Airing",
-    "airing" : true,
-    "aired" : {
-      "from" : 1673308800000,
-      "prop" : {
-        "from" : {
-          "day" : 10,
-          "month" : 1,
-          "year" : 2023
-        },
-        "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
-        }
-      },
-      "string" : "Jan 10, 2023 to ?",
-      "to" : null
-    },
-    "duration" : "24 min per ep",
-    "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.62,
-    "scored_by" : 17510,
-    "rank" : 1350,
-    "popularity" : 1610,
-    "members" : 124001,
-    "favorites" : 856,
-    "synopsis" : "Junta Shiraishi is a high school student with one simple goal—to enjoy his youth. However, achieving this goal is not so straightforward since Shiraishi is effectively invisible to his peers; even his teachers routinely fail to notice his presence. In fact, there is a rumor circulating that whoever manages to spot him will receive good luck. \n\nBut there is one person who notices Shiraishi's presence without fail. Seated right next to him, Nagisa Kubo is determined not to let him quietly fade into the background. Unfortunately for him, this means that Shiraishi finds himself in some peculiar situations, all orchestrated by Kubo. Despite this, Kubo's playful antics might just be the catalyst needed to spark the thrilling youth that Shiraishi longs for.\n\n[Written by MAL Rewrite]",
-    "background" : "Kubo-san wa Mob wo Yurusanai was released on Blu-ray and DVD in two volumes from April 26, 2023, to June 28, 2023.",
-    "season" : "winter",
-    "year" : 2023,
-    "broadcast" : {
-      "day" : "Tuesdays",
-      "time" : "21:30",
-      "timezone" : "Asia/Tokyo",
-      "string" : "Tuesdays at 21:30 (JST)"
-    },
-    "producers" : [ {
-      "mal_id" : 144,
-      "type" : "anime",
-      "name" : "Pony Canyon",
-      "url" : "https://myanimelist.net/anime/producer/144/Pony_Canyon"
-    }, {
-      "mal_id" : 238,
-      "type" : "anime",
-      "name" : "AT-X",
-      "url" : "https://myanimelist.net/anime/producer/238/AT-X"
-    }, {
-      "mal_id" : 1211,
-      "type" : "anime",
-      "name" : "Tokyo MX",
-      "url" : "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
-    }, {
-      "mal_id" : 1255,
-      "type" : "anime",
-      "name" : "Glovision",
-      "url" : "https://myanimelist.net/anime/producer/1255/Glovision"
-    }, {
-      "mal_id" : 1365,
-      "type" : "anime",
-      "name" : "Shueisha",
-      "url" : "https://myanimelist.net/anime/producer/1365/Shueisha"
-    }, {
-      "mal_id" : 1414,
-      "type" : "anime",
-      "name" : "bilibili",
-      "url" : "https://myanimelist.net/anime/producer/1414/bilibili"
-    }, {
-      "mal_id" : 1696,
-      "type" : "anime",
-      "name" : "Kadokawa",
-      "url" : "https://myanimelist.net/anime/producer/1696/Kadokawa"
-    } ],
-    "licensors" : [ {
-      "mal_id" : 376,
-      "type" : "anime",
-      "name" : "Sentai Filmworks",
-      "url" : "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
-    } ],
-    "studios" : [ {
-      "mal_id" : 1295,
-      "type" : "anime",
-      "name" : "PINE JAM",
-      "url" : "https://myanimelist.net/anime/producer/1295/PINE_JAM"
-    } ],
-    "genres" : [ {
-      "mal_id" : 4,
-      "type" : "anime",
-      "name" : "Comedy",
-      "url" : "https://myanimelist.net/anime/genre/4/Comedy"
-    }, {
-      "mal_id" : 22,
-      "type" : "anime",
-      "name" : "Romance",
-      "url" : "https://myanimelist.net/anime/genre/22/Romance"
-    } ],
-    "explicit_genres" : [ ],
-    "themes" : [ {
-      "mal_id" : 23,
-      "type" : "anime",
-      "name" : "School",
-      "url" : "https://myanimelist.net/anime/genre/23/School"
-    } ],
-    "demographics" : [ {
-      "mal_id" : 42,
-      "type" : "anime",
-      "name" : "Seinen",
-      "url" : "https://myanimelist.net/anime/genre/42/Seinen"
-    } ]
   }, {
     "mal_id" : 53111,
     "url" : "https://myanimelist.net/anime/53111/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_IV__Fuka_Shou_-_Yakusai-hen",
@@ -2003,10 +1851,10 @@
     "type" : "TV",
     "source" : "Light novel",
     "episodes" : 11,
-    "status" : "Currently Airing",
-    "airing" : true,
+    "status" : "Finished Airing",
+    "airing" : false,
     "aired" : {
-      "from" : 1673049600000,
+      "from" : "2023-01-07T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 7,
@@ -2024,12 +1872,12 @@
     },
     "duration" : "24 min per ep",
     "rating" : "R - 17+ (violence & profanity)",
-    "score" : 8.18,
-    "scored_by" : 18589,
-    "rank" : 380,
-    "popularity" : 1618,
-    "members" : 122837,
-    "favorites" : 701,
+    "score" : 8.27,
+    "scored_by" : 36096,
+    "rank" : 276,
+    "popularity" : 1556,
+    "members" : 128668,
+    "favorites" : 812,
     "synopsis" : "Second part of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV.",
     "background" : null,
     "season" : "winter",
@@ -2118,6 +1966,173 @@
     "themes" : [ ],
     "demographics" : [ ]
   }, {
+    "mal_id" : 51815,
+    "url" : "https://myanimelist.net/anime/51815/Kubo-san_wa_Mob_wo_Yurusanai",
+    "images" : {
+      "jpg" : {
+        "image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330.jpg",
+        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330t.jpg",
+        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330l.jpg"
+      },
+      "webp" : {
+        "image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330.webp",
+        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330t.webp",
+        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1818/132330l.webp"
+      },
+      "image_url" : null,
+      "small_image_url" : null,
+      "medium_image_url" : null,
+      "large_image_url" : null,
+      "maximum_image_url" : null
+    },
+    "trailer" : {
+      "youtube_id" : "iaVsFCj1gAs",
+      "url" : "https://www.youtube.com/watch?v=iaVsFCj1gAs",
+      "embed_url" : "https://www.youtube.com/embed/iaVsFCj1gAs?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images" : {
+        "jpg" : null,
+        "webp" : null,
+        "image_url" : "https://img.youtube.com/vi/iaVsFCj1gAs/default.jpg",
+        "small_image_url" : "https://img.youtube.com/vi/iaVsFCj1gAs/sddefault.jpg",
+        "medium_image_url" : "https://img.youtube.com/vi/iaVsFCj1gAs/mqdefault.jpg",
+        "large_image_url" : "https://img.youtube.com/vi/iaVsFCj1gAs/hqdefault.jpg",
+        "maximum_image_url" : "https://img.youtube.com/vi/iaVsFCj1gAs/maxresdefault.jpg"
+      }
+    },
+    "approved" : true,
+    "titles" : [ {
+      "type" : "Default",
+      "title" : "Kubo-san wa Mob wo Yurusanai"
+    }, {
+      "type" : "Synonym",
+      "title" : "Kubo-san wa Boku wo Yurusanai"
+    }, {
+      "type" : "Synonym",
+      "title" : "Kubo-san Doesn't Leave Me Be (a Mob)"
+    }, {
+      "type" : "Japanese",
+      "title" : "久保さんは僕を許さない"
+    }, {
+      "type" : "English",
+      "title" : "Kubo Won't Let Me Be Invisible"
+    } ],
+    "title" : "Kubo-san wa Mob wo Yurusanai",
+    "title_english" : "Kubo Won't Let Me Be Invisible",
+    "title_japanese" : "久保さんは僕を許さない",
+    "title_synonyms" : [ "Kubo-san wa Boku wo Yurusanai", "Kubo-san Doesn't Leave Me Be (a Mob)" ],
+    "type" : "TV",
+    "source" : "Manga",
+    "episodes" : 12,
+    "status" : "Currently Airing",
+    "airing" : true,
+    "aired" : {
+      "from" : "2023-01-10T00:00:00+00:00",
+      "prop" : {
+        "from" : {
+          "day" : 10,
+          "month" : 1,
+          "year" : 2023
+        },
+        "to" : {
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
+        }
+      },
+      "string" : "Jan 10, 2023 to ?",
+      "to" : null
+    },
+    "duration" : "24 min per ep",
+    "rating" : "PG-13 - Teens 13 or older",
+    "score" : 7.62,
+    "scored_by" : 17708,
+    "rank" : 1329,
+    "popularity" : 1604,
+    "members" : 124638,
+    "favorites" : 862,
+    "synopsis" : "Junta Shiraishi is a high school student with one simple goal—to enjoy his youth. However, achieving this goal is not so straightforward since Shiraishi is effectively invisible to his peers; even his teachers routinely fail to notice his presence. In fact, there is a rumor circulating that whoever manages to spot him will receive good luck. \n\nBut there is one person who notices Shiraishi's presence without fail. Seated right next to him, Nagisa Kubo is determined not to let him quietly fade into the background. Unfortunately for him, this means that Shiraishi finds himself in some peculiar situations, all orchestrated by Kubo. Despite this, Kubo's playful antics might just be the catalyst needed to spark the thrilling youth that Shiraishi longs for.\n\n[Written by MAL Rewrite]",
+    "background" : "Kubo-san wa Mob wo Yurusanai was released on Blu-ray and DVD in two volumes from April 26, 2023, to June 28, 2023.",
+    "season" : "winter",
+    "year" : 2023,
+    "broadcast" : {
+      "day" : "Tuesdays",
+      "time" : "21:30",
+      "timezone" : "Asia/Tokyo",
+      "string" : "Tuesdays at 21:30 (JST)"
+    },
+    "producers" : [ {
+      "mal_id" : 144,
+      "type" : "anime",
+      "name" : "Pony Canyon",
+      "url" : "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+    }, {
+      "mal_id" : 238,
+      "type" : "anime",
+      "name" : "AT-X",
+      "url" : "https://myanimelist.net/anime/producer/238/AT-X"
+    }, {
+      "mal_id" : 1211,
+      "type" : "anime",
+      "name" : "Tokyo MX",
+      "url" : "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+    }, {
+      "mal_id" : 1255,
+      "type" : "anime",
+      "name" : "Glovision",
+      "url" : "https://myanimelist.net/anime/producer/1255/Glovision"
+    }, {
+      "mal_id" : 1365,
+      "type" : "anime",
+      "name" : "Shueisha",
+      "url" : "https://myanimelist.net/anime/producer/1365/Shueisha"
+    }, {
+      "mal_id" : 1414,
+      "type" : "anime",
+      "name" : "bilibili",
+      "url" : "https://myanimelist.net/anime/producer/1414/bilibili"
+    }, {
+      "mal_id" : 1696,
+      "type" : "anime",
+      "name" : "Kadokawa",
+      "url" : "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    } ],
+    "licensors" : [ {
+      "mal_id" : 376,
+      "type" : "anime",
+      "name" : "Sentai Filmworks",
+      "url" : "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    } ],
+    "studios" : [ {
+      "mal_id" : 1295,
+      "type" : "anime",
+      "name" : "PINE JAM",
+      "url" : "https://myanimelist.net/anime/producer/1295/PINE_JAM"
+    } ],
+    "genres" : [ {
+      "mal_id" : 4,
+      "type" : "anime",
+      "name" : "Comedy",
+      "url" : "https://myanimelist.net/anime/genre/4/Comedy"
+    }, {
+      "mal_id" : 22,
+      "type" : "anime",
+      "name" : "Romance",
+      "url" : "https://myanimelist.net/anime/genre/22/Romance"
+    } ],
+    "explicit_genres" : [ ],
+    "themes" : [ {
+      "mal_id" : 23,
+      "type" : "anime",
+      "name" : "School",
+      "url" : "https://myanimelist.net/anime/genre/23/School"
+    } ],
+    "demographics" : [ {
+      "mal_id" : 42,
+      "type" : "anime",
+      "name" : "Seinen",
+      "url" : "https://myanimelist.net/anime/genre/42/Seinen"
+    } ]
+  }, {
     "mal_id" : 44204,
     "url" : "https://myanimelist.net/anime/44204/Kyokou_Suiri_Season_2",
     "images" : {
@@ -2178,7 +2193,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673222400000,
+      "from" : "2023-01-09T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 9,
@@ -2196,12 +2211,12 @@
     },
     "duration" : "25 min per ep",
     "rating" : "R - 17+ (violence & profanity)",
-    "score" : 7.48,
-    "scored_by" : 8351,
-    "rank" : 1800,
-    "popularity" : 1688,
-    "members" : 116791,
-    "favorites" : 474,
+    "score" : 7.47,
+    "scored_by" : 8489,
+    "rank" : 1828,
+    "popularity" : 1684,
+    "members" : 117174,
+    "favorites" : 475,
     "synopsis" : "During a blizzard, Masayuki Muroi's old high school friend pushes him off a mountain to certain death. However, Masayuki survives the fall and escapes to safety thanks to Yuki-Onna, the spirit of a beautiful young woman who is said to lead men to their demise—but all she asks in return is money.\n\nEleven years later, Masayuki has lived a successful life, having gotten married and amassing a great fortune. But when his company collapses and his wife cheats on him, Masayuki retreats to the city where Yuki-Onna once saved him, and he reconnects with her by offering her money and tasty meals. While Masayuki recovers from his misfortunes, another one knocks on his door: his ex-wife is found beaten to death, and now only Yuki-Onna—who cannot reveal herself—can corroborate his alibi.\n\nWith no one to turn to, Yuki-Onna enlists the help of the spirits' God of Wisdom, Kotoko Iwanaga. Revered by the various spirits that wander the earth, Kotoko uses her extraordinary wits and cunning to solve all quarrels they may have. In her duty to protect spirits and humans from colliding, Kotoko drags along her immortal boyfriend, Kurou Sakuragawa, and promises to prove Masayuki's innocence without exposing Yuki-Onna's existence.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -2355,7 +2370,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672790400000,
+      "from" : "2023-01-04T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 4,
@@ -2373,12 +2388,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.75,
-    "scored_by" : 21861,
-    "rank" : 1026,
-    "popularity" : 1704,
-    "members" : 114978,
-    "favorites" : 783,
+    "score" : 7.74,
+    "scored_by" : 22276,
+    "rank" : 1046,
+    "popularity" : 1695,
+    "members" : 116020,
+    "favorites" : 791,
     "synopsis" : "Princess Anisphia \"Anis\" Wynn Palletia has always dreamed of flying through the sky, even though the people of her kingdom consider it a silly ambition. Also at odds with her goal is the fact that Anis is incapable of using magic despite her noble status. Refusing to give up so easily, she renounces her right to the throne, and focuses on developing \"magicology\" by combining various resources with knowledge from her previous life on Earth.\n\nDue to Anis' nature, responsibility for the kingdom's future is passed onto her younger brother, Algard. Pushed into a political marriage with Euphyllia Magenta, a girl he hardly knows, Algard rebels by spending more time with a commoner girl than his fiancée. After Euphyllia tries to intervene, Algard publicly calls off their marriage and denounces his ex-fiancée as a bully.\n\nAfter crashing into the banquet where Algard makes the announcement, Anis rescues Euphyllia on the flying broom she is testing. She decides to make Euphyllia her assistant, which the other girl reluctantly agrees to. Although their partnership appears random at first, Anis has an ulterior motive for wanting Euphyllia's company.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -2519,7 +2534,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672876800000,
+      "from" : "2023-01-05T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 5,
@@ -2537,12 +2552,12 @@
     },
     "duration" : "25 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.26,
-    "scored_by" : 14476,
-    "rank" : 8090,
-    "popularity" : 1764,
-    "members" : 110463,
-    "favorites" : 596,
+    "score" : 6.25,
+    "scored_by" : 14743,
+    "rank" : 8144,
+    "popularity" : 1756,
+    "members" : 111002,
+    "favorites" : 598,
     "synopsis" : "A decade ago, mankind witnessed the deadly potential of weapons caused by the Great War. To avoid another catastrophe, governments worldwide have resorted to espionage to fulfill their agendas.\n\nIn the Din Republic, Lily is an enthusiastic young girl who aspires to become a spy and serve her nation. However, she begins to doubt her abilities, as she struggles to perform well academically. Lily's passion is reignited when she is offered provisional graduation by joining the spy team Lamplight, which she eagerly accepts despite the enigmatic nature of the opportunity.\n\nUpon arriving at her destination, Lily is surprised to find six other girls waiting there, all of whom have faced their own academic difficulties as well. A mysterious man named Klaus soon appears and reveals they must complete an \"Impossible Mission\": to infiltrate the Galgad Empire after just one month of training. Although skeptical, the girls eventually agree to work together under Klaus' guidance—as this might be their only chance to prove their worth as spies.\n\n[Written by MAL Rewrite]",
     "background" : "Spy Kyoushitsu was released on Blu-ray and DVD in two volumes from March 24, 2023, to May 24, 2023.",
     "season" : "winter",
@@ -2671,7 +2686,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673308800000,
+      "from" : "2023-01-10T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 10,
@@ -2689,12 +2704,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.55,
-    "scored_by" : 18668,
-    "rank" : 6350,
-    "popularity" : 1800,
-    "members" : 107720,
-    "favorites" : 542,
+    "score" : 6.54,
+    "scored_by" : 18983,
+    "rank" : 6418,
+    "popularity" : 1791,
+    "members" : 108343,
+    "favorites" : 546,
     "synopsis" : "Veteran adventurer Nick, mage Tiana, cleric Zem, and half-dragon Curran each show up alone at a tavern, only to find themselves seated at the same table. As the night goes on, they take turns divulging their grievances and the hobbies they have taken up as a means of coping. While their stories are utterly different, there is one common thread: betrayal. Each of the four, having been bitterly betrayed by someone they treasured, has developed a deep-seated distrust of humanity.\n\nBut in addition to their similar worldviews, the four have one more commonality: a critical lack of funds. Realizing that things cannot continue as they are, they decide to form a party, rank up, and make as much money as possible to spend on their respective hobbies. What these disillusioned adventurers do not know, however, is that they will one day save the world from unfathomable peril.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -2828,7 +2843,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673395200000,
+      "from" : "2023-01-11T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 11,
@@ -2847,11 +2862,11 @@
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 7.66,
-    "scored_by" : 20358,
-    "rank" : 1250,
-    "popularity" : 1836,
-    "members" : 103982,
-    "favorites" : 658,
+    "scored_by" : 20898,
+    "rank" : 1252,
+    "popularity" : 1824,
+    "members" : 105361,
+    "favorites" : 668,
     "synopsis" : "Salaryman Tsuyoshi Mukouda is accidentally summoned as a hero to the Kingdom of Reijseger in another world to help defend against their enemies. Wary of the royal family's true intentions, Mukouda is able to talk his way out of the situation due to his non-combat skill, \"Online Supermarket,\" which is deemed useless.\n\nHowever, this power proves to be anything but useless. With this ability, Mukouda is able to cheaply purchase food products and utensils from Japan—most of which are considered luxuries in this world. As Mukouda cooks up a storm using his ability, he catches the eye of the fearsome mythical wolf Fenrir. The legendary beast swiftly negotiates a contract to become Mukouda's familiar, unable to resist the delicious dishes. With Fenrir by his side, Mukouda travels the world, earning his keep as an adventurer and merchant all the while enjoying delectable meals.\n\n[Written by MAL Rewrite]",
     "background" : "Tondemo Skill de Isekai Hourou Meshi was released on Blu-ray and DVD in three volumes from April 26, 2023, to June 28, 2023.",
     "season" : "winter",
@@ -2910,160 +2925,6 @@
     } ],
     "demographics" : [ ]
   }, {
-    "mal_id" : 50932,
-    "url" : "https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki",
-    "images" : {
-      "jpg" : {
-        "image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900.jpg",
-        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900t.jpg",
-        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900l.jpg"
-      },
-      "webp" : {
-        "image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900.webp",
-        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900t.webp",
-        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900l.webp"
-      },
-      "image_url" : null,
-      "small_image_url" : null,
-      "medium_image_url" : null,
-      "large_image_url" : null,
-      "maximum_image_url" : null
-    },
-    "trailer" : {
-      "youtube_id" : "6bYBB5ZF5a8",
-      "url" : "https://www.youtube.com/watch?v=6bYBB5ZF5a8",
-      "embed_url" : "https://www.youtube.com/embed/6bYBB5ZF5a8?enablejsapi=1&wmode=opaque&autoplay=1",
-      "images" : {
-        "jpg" : null,
-        "webp" : null,
-        "image_url" : "https://img.youtube.com/vi/6bYBB5ZF5a8/default.jpg",
-        "small_image_url" : "https://img.youtube.com/vi/6bYBB5ZF5a8/sddefault.jpg",
-        "medium_image_url" : "https://img.youtube.com/vi/6bYBB5ZF5a8/mqdefault.jpg",
-        "large_image_url" : "https://img.youtube.com/vi/6bYBB5ZF5a8/hqdefault.jpg",
-        "maximum_image_url" : "https://img.youtube.com/vi/6bYBB5ZF5a8/maxresdefault.jpg"
-      }
-    },
-    "approved" : true,
-    "titles" : [ {
-      "type" : "Default",
-      "title" : "Saikyou Onmyouji no Isekai Tenseiki"
-    }, {
-      "type" : "Synonym",
-      "title" : "The Reincarnation of the Strongest Onmyouji in Another World"
-    }, {
-      "type" : "Japanese",
-      "title" : "最強陰陽師の異世界転生記"
-    }, {
-      "type" : "English",
-      "title" : "The Reincarnation of the Strongest Exorcist in Another World"
-    } ],
-    "title" : "Saikyou Onmyouji no Isekai Tenseiki",
-    "title_english" : "The Reincarnation of the Strongest Exorcist in Another World",
-    "title_japanese" : "最強陰陽師の異世界転生記",
-    "title_synonyms" : [ "The Reincarnation of the Strongest Onmyouji in Another World" ],
-    "type" : "TV",
-    "source" : "Light novel",
-    "episodes" : 13,
-    "status" : "Currently Airing",
-    "airing" : true,
-    "aired" : {
-      "from" : 1673049600000,
-      "prop" : {
-        "from" : {
-          "day" : 7,
-          "month" : 1,
-          "year" : 2023
-        },
-        "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
-        }
-      },
-      "string" : "Jan 7, 2023 to ?",
-      "to" : null
-    },
-    "duration" : "23 min per ep",
-    "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.27,
-    "scored_by" : 18606,
-    "rank" : 2745,
-    "popularity" : 1863,
-    "members" : 101848,
-    "favorites" : 483,
-    "synopsis" : "Despite standing at the zenith as the strongest exorcist, Haruyoshi Kuga sought even greater power, which led to his demise at the hands of those who envied his might. As he draws his last breath, he casts a spell that allows him to reincarnate and swears to become more cunning, hoping that all his efforts will prove useful in his next life.\n\nHaruyoshi is soon reborn in another world as Seika Lamprogue, an illegitimate son of a noble family that prides itself on magic. However, his new family largely ignores him due to his lineage and magic deficiency. Nevertheless, the unbothered Seika leverages the knowledge from his previous life to make numerous valuable allies. As he begins to explore the true limits of his abilities, Seika must also be wary of the consequences that tarnished his past and avoid repeating the same mistakes.\n\n[Written by MAL Rewrite]",
-    "background" : "Saikyou Onmyouji no Isekai Tenseiki was released on Blu-ray and DVD on May 26, 2023.",
-    "season" : "winter",
-    "year" : 2023,
-    "broadcast" : {
-      "day" : "Saturdays",
-      "time" : "23:30",
-      "timezone" : "Asia/Tokyo",
-      "string" : "Saturdays at 23:30 (JST)"
-    },
-    "producers" : [ {
-      "mal_id" : 460,
-      "type" : "anime",
-      "name" : "KlockWorx",
-      "url" : "https://myanimelist.net/anime/producer/460/KlockWorx"
-    }, {
-      "mal_id" : 517,
-      "type" : "anime",
-      "name" : "Asmik Ace",
-      "url" : "https://myanimelist.net/anime/producer/517/Asmik_Ace"
-    }, {
-      "mal_id" : 1344,
-      "type" : "anime",
-      "name" : "King Records",
-      "url" : "https://myanimelist.net/anime/producer/1344/King_Records"
-    }, {
-      "mal_id" : 1377,
-      "type" : "anime",
-      "name" : "Futabasha",
-      "url" : "https://myanimelist.net/anime/producer/1377/Futabasha"
-    }, {
-      "mal_id" : 1468,
-      "type" : "anime",
-      "name" : "Crunchyroll",
-      "url" : "https://myanimelist.net/anime/producer/1468/Crunchyroll"
-    } ],
-    "licensors" : [ ],
-    "studios" : [ {
-      "mal_id" : 478,
-      "type" : "anime",
-      "name" : "Studio Blanc.",
-      "url" : "https://myanimelist.net/anime/producer/478/Studio_Blanc"
-    } ],
-    "genres" : [ {
-      "mal_id" : 1,
-      "type" : "anime",
-      "name" : "Action",
-      "url" : "https://myanimelist.net/anime/genre/1/Action"
-    }, {
-      "mal_id" : 2,
-      "type" : "anime",
-      "name" : "Adventure",
-      "url" : "https://myanimelist.net/anime/genre/2/Adventure"
-    }, {
-      "mal_id" : 10,
-      "type" : "anime",
-      "name" : "Fantasy",
-      "url" : "https://myanimelist.net/anime/genre/10/Fantasy"
-    } ],
-    "explicit_genres" : [ ],
-    "themes" : [ {
-      "mal_id" : 62,
-      "type" : "anime",
-      "name" : "Isekai",
-      "url" : "https://myanimelist.net/anime/genre/62/Isekai"
-    }, {
-      "mal_id" : 72,
-      "type" : "anime",
-      "name" : "Reincarnation",
-      "url" : "https://myanimelist.net/anime/genre/72/Reincarnation"
-    } ],
-    "demographics" : [ ]
-  }, {
     "mal_id" : 52093,
     "url" : "https://myanimelist.net/anime/52093/Trigun_Stampede",
     "images" : {
@@ -3118,7 +2979,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673049600000,
+      "from" : "2023-01-07T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 7,
@@ -3136,12 +2997,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.43,
-    "scored_by" : 14636,
-    "rank" : 2002,
-    "popularity" : 1863,
-    "members" : 101791,
-    "favorites" : 658,
+    "score" : 7.44,
+    "scored_by" : 15012,
+    "rank" : 1943,
+    "popularity" : 1851,
+    "members" : 103040,
+    "favorites" : 681,
     "synopsis" : "On the planet Noman's Land, reporters Meryl Stryfe and Roberto De Niro traverse the desert in search of the infamous outlaw Vash the Stampede. But the man they find near the desolate town of Jeneora Rock is a far cry from the lethal terrorist they expect. In reality, Vash is a passive and carefree drifter; he is a proponent of peace, beloved by the residents of the town. His inaccurate reputation actually stems from the widespread atrocities committed by his twin brother Knives Millions. Still, Vash is dubbed \"The Humanoid Typhoon'' due to the tendency for violent chaos to follow in his wake.\n\nChaos soon arrives in the form of bounty hunters seeking the high price on Vash's head, and their violent pursuit poses great danger to the town and its precious power plant. Thanks to his gunslinging prowess, Vash is able to resist most of these nefarious forces. Yet he must soon face off against the ultimate evil: the unstoppable destructive power of his malevolent brother.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -3215,6 +3076,160 @@
       "url" : "https://myanimelist.net/anime/genre/27/Shounen"
     } ]
   }, {
+    "mal_id" : 50932,
+    "url" : "https://myanimelist.net/anime/50932/Saikyou_Onmyouji_no_Isekai_Tenseiki",
+    "images" : {
+      "jpg" : {
+        "image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900.jpg",
+        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900t.jpg",
+        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900l.jpg"
+      },
+      "webp" : {
+        "image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900.webp",
+        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900t.webp",
+        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1547/125900l.webp"
+      },
+      "image_url" : null,
+      "small_image_url" : null,
+      "medium_image_url" : null,
+      "large_image_url" : null,
+      "maximum_image_url" : null
+    },
+    "trailer" : {
+      "youtube_id" : "6bYBB5ZF5a8",
+      "url" : "https://www.youtube.com/watch?v=6bYBB5ZF5a8",
+      "embed_url" : "https://www.youtube.com/embed/6bYBB5ZF5a8?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images" : {
+        "jpg" : null,
+        "webp" : null,
+        "image_url" : "https://img.youtube.com/vi/6bYBB5ZF5a8/default.jpg",
+        "small_image_url" : "https://img.youtube.com/vi/6bYBB5ZF5a8/sddefault.jpg",
+        "medium_image_url" : "https://img.youtube.com/vi/6bYBB5ZF5a8/mqdefault.jpg",
+        "large_image_url" : "https://img.youtube.com/vi/6bYBB5ZF5a8/hqdefault.jpg",
+        "maximum_image_url" : "https://img.youtube.com/vi/6bYBB5ZF5a8/maxresdefault.jpg"
+      }
+    },
+    "approved" : true,
+    "titles" : [ {
+      "type" : "Default",
+      "title" : "Saikyou Onmyouji no Isekai Tenseiki"
+    }, {
+      "type" : "Synonym",
+      "title" : "The Reincarnation of the Strongest Onmyouji in Another World"
+    }, {
+      "type" : "Japanese",
+      "title" : "最強陰陽師の異世界転生記"
+    }, {
+      "type" : "English",
+      "title" : "The Reincarnation of the Strongest Exorcist in Another World"
+    } ],
+    "title" : "Saikyou Onmyouji no Isekai Tenseiki",
+    "title_english" : "The Reincarnation of the Strongest Exorcist in Another World",
+    "title_japanese" : "最強陰陽師の異世界転生記",
+    "title_synonyms" : [ "The Reincarnation of the Strongest Onmyouji in Another World" ],
+    "type" : "TV",
+    "source" : "Light novel",
+    "episodes" : 13,
+    "status" : "Currently Airing",
+    "airing" : true,
+    "aired" : {
+      "from" : "2023-01-07T00:00:00+00:00",
+      "prop" : {
+        "from" : {
+          "day" : 7,
+          "month" : 1,
+          "year" : 2023
+        },
+        "to" : {
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
+        }
+      },
+      "string" : "Jan 7, 2023 to ?",
+      "to" : null
+    },
+    "duration" : "23 min per ep",
+    "rating" : "PG-13 - Teens 13 or older",
+    "score" : 7.26,
+    "scored_by" : 18952,
+    "rank" : 2794,
+    "popularity" : 1853,
+    "members" : 102674,
+    "favorites" : 485,
+    "synopsis" : "Despite standing at the zenith as the strongest exorcist, Haruyoshi Kuga sought even greater power, which led to his demise at the hands of those who envied his might. As he draws his last breath, he casts a spell that allows him to reincarnate and swears to become more cunning, hoping that all his efforts will prove useful in his next life.\n\nHaruyoshi is soon reborn in another world as Seika Lamprogue, an illegitimate son of a noble family that prides itself on magic. However, his new family largely ignores him due to his lineage and magic deficiency. Nevertheless, the unbothered Seika leverages the knowledge from his previous life to make numerous valuable allies. As he begins to explore the true limits of his abilities, Seika must also be wary of the consequences that tarnished his past and avoid repeating the same mistakes.\n\n[Written by MAL Rewrite]",
+    "background" : "Saikyou Onmyouji no Isekai Tenseiki was released on Blu-ray and DVD on May 26, 2023.",
+    "season" : "winter",
+    "year" : 2023,
+    "broadcast" : {
+      "day" : "Saturdays",
+      "time" : "23:30",
+      "timezone" : "Asia/Tokyo",
+      "string" : "Saturdays at 23:30 (JST)"
+    },
+    "producers" : [ {
+      "mal_id" : 460,
+      "type" : "anime",
+      "name" : "KlockWorx",
+      "url" : "https://myanimelist.net/anime/producer/460/KlockWorx"
+    }, {
+      "mal_id" : 517,
+      "type" : "anime",
+      "name" : "Asmik Ace",
+      "url" : "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+    }, {
+      "mal_id" : 1344,
+      "type" : "anime",
+      "name" : "King Records",
+      "url" : "https://myanimelist.net/anime/producer/1344/King_Records"
+    }, {
+      "mal_id" : 1377,
+      "type" : "anime",
+      "name" : "Futabasha",
+      "url" : "https://myanimelist.net/anime/producer/1377/Futabasha"
+    }, {
+      "mal_id" : 1468,
+      "type" : "anime",
+      "name" : "Crunchyroll",
+      "url" : "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+    } ],
+    "licensors" : [ ],
+    "studios" : [ {
+      "mal_id" : 478,
+      "type" : "anime",
+      "name" : "Studio Blanc.",
+      "url" : "https://myanimelist.net/anime/producer/478/Studio_Blanc"
+    } ],
+    "genres" : [ {
+      "mal_id" : 1,
+      "type" : "anime",
+      "name" : "Action",
+      "url" : "https://myanimelist.net/anime/genre/1/Action"
+    }, {
+      "mal_id" : 2,
+      "type" : "anime",
+      "name" : "Adventure",
+      "url" : "https://myanimelist.net/anime/genre/2/Adventure"
+    }, {
+      "mal_id" : 10,
+      "type" : "anime",
+      "name" : "Fantasy",
+      "url" : "https://myanimelist.net/anime/genre/10/Fantasy"
+    } ],
+    "explicit_genres" : [ ],
+    "themes" : [ {
+      "mal_id" : 62,
+      "type" : "anime",
+      "name" : "Isekai",
+      "url" : "https://myanimelist.net/anime/genre/62/Isekai"
+    }, {
+      "mal_id" : 72,
+      "type" : "anime",
+      "name" : "Reincarnation",
+      "url" : "https://myanimelist.net/anime/genre/72/Reincarnation"
+    } ],
+    "demographics" : [ ]
+  }, {
     "mal_id" : 51462,
     "url" : "https://myanimelist.net/anime/51462/Isekai_Nonbiri_Nouka",
     "images" : {
@@ -3269,7 +3284,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672963200000,
+      "from" : "2023-01-06T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 6,
@@ -3287,12 +3302,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.51,
-    "scored_by" : 16781,
-    "rank" : 1690,
-    "popularity" : 1898,
-    "members" : 99178,
-    "favorites" : 709,
+    "score" : 7.52,
+    "scored_by" : 17400,
+    "rank" : 1679,
+    "popularity" : 1881,
+    "members" : 100429,
+    "favorites" : 727,
     "synopsis" : "During the final years of his life, Hiraku Machio remained confined to a hospital bed with a terminal illness until he finally passed away. Taking pity on the unfair life he lived, a god decides to reincarnate Hiraku in another world where he can live as he pleases. Wanting to try farming in this new life, he is bestowed with an all-in-one \"Almighty Farming Tool\" that can transform into any useful implement he wishes. Hiraku is then transported to a forest seemingly far from civilization. Here, he plans to build and farm everything from scratch—gradually developing the lifeless area into a thriving new society.\n\n[Written by MAL Rewrite]",
     "background" : "Isekai Nonbiri Nouka was released on Blu-ray and DVD in two volumes from April 19, 2023, to May 24, 2023.",
     "season" : "winter",
@@ -3420,7 +3435,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672963200000,
+      "from" : "2023-01-06T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 6,
@@ -3428,9 +3443,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 6, 2023 to ?",
@@ -3438,12 +3453,12 @@
     },
     "duration" : "24 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.34,
-    "scored_by" : 17140,
-    "rank" : 7602,
-    "popularity" : 2024,
-    "members" : 89963,
-    "favorites" : 538,
+    "score" : 6.33,
+    "scored_by" : 17713,
+    "rank" : 7653,
+    "popularity" : 2005,
+    "members" : 91115,
+    "favorites" : 556,
     "synopsis" : "As the first commoner to attend the prestigious Arnold Academy of Sorcery, Ray White is immediately met with contempt from some of the students hailing from nobility. Unbeknownst to them, Ray's real identity is that of the famous Iceblade Sorcerer—a hero who led the country to victory in a past war and is one of the seven strongest sorcerers alive. Despite his legendary status, Ray wants nothing more than to live out the ordinary school life he never had.\n\nRay quickly makes friends with some of the most influential students thanks to his kind and amiable nature. Unfortunately, as those with nefarious motives begin to make their move, Ray may soon have no choice but to use his true power to preserve the bonds that make his new life worthwhile.\n\n[Written by MAL Rewrite]",
     "background" : "Hyouken no Majutsushi ga Sekai wo Suberu was released on Blu-ray on April 26, 2023.",
     "season" : "winter",
@@ -3586,7 +3601,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673308800000,
+      "from" : "2023-01-10T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 10,
@@ -3604,12 +3619,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.89,
-    "scored_by" : 15489,
-    "rank" : 4541,
-    "popularity" : 2033,
-    "members" : 89267,
-    "favorites" : 448,
+    "score" : 6.87,
+    "scored_by" : 15918,
+    "rank" : 4639,
+    "popularity" : 2023,
+    "members" : 90111,
+    "favorites" : 453,
     "synopsis" : "The hero king Inglis—who dedicated his entire life to building his country—is now approaching death. To award him for his honorable achievements, the goddess Alistia appears and grants him one wish. Having never been able to master the blade, Inglis asks to be reincarnated in order to do so.\n\nIn a blink of an eye, Inglis finds himself born in the far future as a daughter of the Eucus noble family. Six years later, Inglis is discovered to be Runeless—incapable of utilizing the runes that enable the use of magic in this era. She is therefore ineligible to become a knight. However, this fits in well with Inglis' plan: she instead decides to become the squire for her cousin, Rafinha Bilford, allowing Inglis to focus on pushing her limits.\n\nFor Inglis, the challenges this familiar yet different world has to offer are instead opportunities for her to hone her skills—and possibly become an extraordinary squire in the process.\n\n[Written by MAL Rewrite]",
     "background" : "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ was released on Blu-ray in two volumes from March 29, 2023, to April 26, 2023.",
     "season" : "winter",
@@ -3750,7 +3765,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672876800000,
+      "from" : "2023-01-05T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 5,
@@ -3768,12 +3783,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.39,
-    "scored_by" : 16445,
-    "rank" : 2165,
-    "popularity" : 2102,
-    "members" : 84684,
-    "favorites" : 866,
+    "score" : 7.4,
+    "scored_by" : 16901,
+    "rank" : 2117,
+    "popularity" : 2096,
+    "members" : 85562,
+    "favorites" : 881,
     "synopsis" : "Self-professed \"home security guard\" Mahiro Oyama has not left his home in years, secluding himself in his room playing erotic visual novels. This depraved lifestyle causes his prodigious sister, Mihari, to worry about his well-being. In hopes of solving this problem, she devises a plan to rehabilitate him back to normalcy.\n\nThe first part of Mihari's plan is to concoct a medicine that changes her brother's biological constitution into a bona fide female, much to Mahiro's vehement dismay. Stuck in this predicament, Mahiro has no choice but to live out his life as a cute girl until the effect wears off—if it ever does.\n\n[Written by MAL Rewrite]",
     "background" : "Oniichan wa Oshimai! was released on Blu-ray in two boxes from April 19, 2023, to June 21, 2023.",
     "season" : "winter",
@@ -3926,7 +3941,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673136000000,
+      "from" : "2023-01-08T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 8,
@@ -3944,12 +3959,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.2,
-    "scored_by" : 14287,
-    "rank" : 3101,
-    "popularity" : 2108,
-    "members" : 84050,
-    "favorites" : 309,
+    "score" : 7.21,
+    "scored_by" : 14718,
+    "rank" : 3041,
+    "popularity" : 2099,
+    "members" : 85319,
+    "favorites" : 317,
     "synopsis" : "Despite being a handyman with a wide range of skills, Saitou is severely undervalued and underpaid. When he complains, his boss fires him, claiming that he is easily replaceable. As if his luck was not bad enough, a truck suddenly hits and kills Saitou on his way home.\n\nSurprisingly enough, Saitou does not die; instead, he is transported to another world. There, he meets a party composed of the female knight Raelza, the moonlight fairy Lafanpan, and the mage Morlock, who are all coincidentally looking to recruit a new member with a skill set like Saitou's.\n\nThroughout their time together, Saitou uses his expertise to assist his fellow party members and soon comes to receive the recognition he never thought was possible. However, Saitou's presence may just be the catalyst that will connect a diverse cast of people from different places, slowly uncovering the fate that could bring a great change to this world.\n\n[Written by MAL Rewrite]",
     "background" : "Benriya Saitou-san, Isekai ni Iku was released on Blu-ray and DVD in three volumes from March 24, 2023, to May 24, 2023.",
     "season" : "winter",
@@ -4019,6 +4034,16 @@
     "demographics" : [ ]
   } ]
 }, {
+  "pagination" : {
+    "last_visible_page" : 3,
+    "has_next_page" : true,
+    "current_page" : 2,
+    "items" : {
+      "count" : 25,
+      "total" : 56,
+      "per_page" : 25
+    }
+  },
   "data" : [ {
     "mal_id" : 51265,
     "url" : "https://myanimelist.net/anime/51265/Inu_ni_Nattara_Suki_na_Hito_ni_Hirowareta",
@@ -4077,7 +4102,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673049600000,
+      "from" : "2023-01-07T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 7,
@@ -4085,9 +4110,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 7, 2023 to ?",
@@ -4095,12 +4120,12 @@
     },
     "duration" : "12 min per ep",
     "rating" : "R+ - Mild Nudity",
-    "score" : 5.21,
-    "scored_by" : 13577,
-    "rank" : 12596,
-    "popularity" : 2145,
-    "members" : 80950,
-    "favorites" : 555,
+    "score" : 5.2,
+    "scored_by" : 13839,
+    "rank" : 12662,
+    "popularity" : 2143,
+    "members" : 81398,
+    "favorites" : 559,
     "synopsis" : "On a rainy afternoon, a male high school student awakens freezing on the streets with no memory of how he got there. His classmate and crush, Karen Inukai, finds him and takes him back to her home where, to his surprise, she starts to undress. She seems intent on bathing with him, though he has no idea why. When she holds him once more, he catches a glimpse of himself in the mirror—discovering that he has turned into a dog!\n\nInukai adopts the puppy and names him Pochita. Now, he must adjust to life as a dog and figure out how to get out of this strange predicament. But while he mulls over an escape plan, Pochita sees a whole new side to Inukai that he never saw at school.\n\n[Written by MAL Rewrite]",
     "background" : "Inu ni Nattara Suki na Hito ni Hirowareta. was released on Blu-ray in two volumes from March 29, 2023, to April 26, 2023. Each episode was streamed one day in advance of the TV broadcast starting on January 6, 2023, on AbemaTV. Regular broadcasting began on January 7, 2023.",
     "season" : "winter",
@@ -4213,7 +4238,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673049600000,
+      "from" : "2023-01-07T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 7,
@@ -4231,12 +4256,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.91,
-    "scored_by" : 13379,
-    "rank" : 4462,
-    "popularity" : 2238,
-    "members" : 76272,
-    "favorites" : 313,
+    "score" : 6.92,
+    "scored_by" : 13661,
+    "rank" : 4431,
+    "popularity" : 2224,
+    "members" : 76886,
+    "favorites" : 317,
     "synopsis" : "For more than 30 years, Dariel has been a loyal soldier in the Demon King's army, having been raised by Granverza, one of the Four Heavenly Generals. However, as Dariel lacks any magical potential, he is nothing but a disgrace in the eyes of Granverza's son, Bashubaza, who fires Dariel right after assuming his father's position as a general.\n\nStripped of a home and a job, Dariel wanders the forests, where he stumbles upon a human girl named Marika running from a monster. After Dariel intervenes to help Marika, she invites him to stay at her village in return. There, he discovers that the reason he has zero suitability for magic as a demon is that he is, in fact, a human.\n\nHowever, Dariel is no ordinary human. Possessing potential that far outweighs even heroes, Dariel may soon find himself involved in the humans and demons' seemingly never-ending conflict, facing against the race he once considered allies.\n\n[Written by MAL Rewrite]",
     "background" : "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life was released on Blu-ray in four volumes from March 22, 2023, to June 21, 2023.",
     "season" : "winter",
@@ -4353,7 +4378,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673222400000,
+      "from" : "2023-01-09T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 9,
@@ -4372,11 +4397,11 @@
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 7.05,
-    "scored_by" : 8250,
-    "rank" : 3872,
-    "popularity" : 2249,
-    "members" : 75740,
-    "favorites" : 662,
+    "scored_by" : 8410,
+    "rank" : 3837,
+    "popularity" : 2246,
+    "members" : 76048,
+    "favorites" : 665,
     "synopsis" : "Since reincarnating into a new world, Ryouma Takebayashi has used his god-given graces to tame countless slimes and employ them to improve the lives of everyone around him. With the astonishing success of his laundry shop, Bamboo Forest, he is finally ready to take on new frontiers and open a branch in the neighboring city of Lenaf. Abiding by his promise with his dearest friend, Eliaria Jamil, Ryouma makes every day count, whether learning new techniques, forming connections, or even discovering more species of slime.\n\n[Written by MAL Rewrite]",
     "background" : "Kami-tachi ni Hirowareta Otoko 2nd Season was released on Blu-ray in two volumes by Toei Video from April 12, 2023, and May 10, 2023. Limited edition bonuses were made available, featuring new material from the authors and, for the first volume exclusively, a card to download the original soundtrack. To commemorate the series, a special broadcast aired on AbemaTV on December 27, 2022, before the anime premiered. Beginning on January 5, 2023, the Kami-tachi ni Hirowareta Otoko: Tadokoro Azusa and Kuwahara Yuuki's Isekai Slow Radio 2 program featuring discussions of the series by the show's voice actors streamed on the Chou! A&G+ internet radio station.",
     "season" : "winter",
@@ -4547,7 +4572,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673654400000,
+      "from" : "2023-01-14T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 14,
@@ -4555,22 +4580,22 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 1,
+          "month" : 4,
+          "year" : 2023
         }
       },
-      "string" : "Jan 14, 2023 to ?",
-      "to" : null
+      "string" : "Jan 14, 2023 to Apr 1, 2023",
+      "to" : "2023-04-01T00:00:00+00:00"
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 5.91,
-    "scored_by" : 8718,
-    "rank" : 9947,
-    "popularity" : 2504,
-    "members" : 63272,
-    "favorites" : 520,
+    "score" : 5.86,
+    "scored_by" : 8978,
+    "rank" : 10188,
+    "popularity" : 2497,
+    "members" : 63630,
+    "favorites" : 523,
     "synopsis" : "Thanks to the Fruit of Evolution, Seiichi Hiiragi's amazing new life in another world allows him to meet dependable allies and create formidable spells. His abilities catch the attention of Barnabus Ablitt, the principal of the Barbador Academy of Magic, who invites Seiichi to become a teacher at the institution. Coincidentally, Seiichi's classmates from Earth are enrolled there, which will lead to an awkward reunion if he is to meet them.\n\nBehind the scenes, however, an enigmatic cult called The Great Devil Order devises a sinister scheme to resurrect their deity and sacrifice the students of Barbador to hasten the process. As Seiichi's power is second to none, it is up to him to protect not only his friends but also the entire world from the looming darkness.\n\n[Written by MAL Rewrite]",
     "background" : "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei was released on Blu-ray and DVD on May 26, 2023.",
     "season" : "winter",
@@ -4710,7 +4735,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673222400000,
+      "from" : "2023-01-09T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 9,
@@ -4728,12 +4753,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "R - 17+ (violence & profanity)",
-    "score" : 7.21,
-    "scored_by" : 7283,
-    "rank" : 3040,
-    "popularity" : 2559,
-    "members" : 60880,
-    "favorites" : 270,
+    "score" : 7.19,
+    "scored_by" : 7483,
+    "rank" : 3173,
+    "popularity" : 2538,
+    "members" : 61755,
+    "favorites" : 275,
     "synopsis" : "After discovering that his orphanage was on the brink of closing due to financial stress, Finn, who was living freely on the streets, set out for a casino with the aim of making a fortune. However, nothing could have prepared Finn for the nightmare that was awaiting him. Once there, Finn encountered a car chase and bloody shootout caused by a man's \"lucky\" card.\n\nFinn will eventually learn what the shootout was about. The world order can be controlled by a set of 52 X-Playing cards with the power to bestow different superhuman powers and abilities to the ones that possess them. With these cards, people can access the hidden power of the \"buddy\" that can be found within themselves.\n\nThere is a secret group of players called High Card, who have been directly ordered by the king of Fourland to collect the cards that have been scattered throughout the kingdom while moonlighting as employees of the luxury carmaker Pinochle. Scouted to become the group's fifth member, Finn soon joins the players on a dangerous mission to find these cards.\n\n\"All you need in life are manners, dignity, and the will to bet on your own life.\"\n\nHowever, Who's Who, the rival car maker obsessed with defeating Pinochle, and the Klondikes, the infamous Mafia family, stand in the way of the gang. A frenzied battle amongst these card-obsessed players, fueled by justice, desire, and revenge, is about to begin!\n\nAre you ready? It's Showdown!!\n\n(Source: TMS Entertainment)",
     "background" : null,
     "season" : "winter",
@@ -4859,7 +4884,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673049600000,
+      "from" : "2023-01-07T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 7,
@@ -4867,22 +4892,22 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 25,
+          "month" : 3,
+          "year" : 2023
         }
       },
-      "string" : "Jan 7, 2023 to ?",
-      "to" : null
+      "string" : "Jan 7, 2023 to Mar 25, 2023",
+      "to" : "2023-03-25T00:00:00+00:00"
     },
     "duration" : "24 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.19,
-    "scored_by" : 8231,
-    "rank" : 3181,
-    "popularity" : 2601,
-    "members" : 59328,
-    "favorites" : 260,
+    "score" : 7.18,
+    "scored_by" : 8492,
+    "rank" : 3186,
+    "popularity" : 2592,
+    "members" : 59804,
+    "favorites" : 268,
     "synopsis" : "Broadcasting club member Shihono Kobayashi always gushes to her friend Aoto Endou about MagiKoi, an otome game where protagonist Fiene attends the Royal Academy of Magic. But despite the colorful cast, the one character Kobayashi is most obsessed with is the villainess Lieselotte Riefenstahl. Contrary to her rude remarks toward Fiene, Lieselotte longs to be her friend. Lieselotte is also deeply in love with her own fiancé, Prince Siegwald Fitzenhagen—the game's main love interest. Unfortunately, in almost every route, Lieselotte is doomed to a tragic end.\n\nKobayashi manages to convince Endou to play MagiKoi to practice his speaking skills. What begins as a normal playthrough turns extraordinary when Siegwald suddenly hears the players' voices inside the game! Now labeled as \"gods,\" Endou and Kobayashi use their comments and analyses to save their beloved tsundere villainess from her fated demise.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -5032,7 +5057,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672876800000,
+      "from" : "2023-01-05T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 5,
@@ -5050,12 +5075,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "R - 17+ (violence & profanity)",
-    "score" : 6.67,
-    "scored_by" : 7668,
-    "rank" : 5689,
-    "popularity" : 2721,
-    "members" : 54251,
-    "favorites" : 197,
+    "score" : 6.66,
+    "scored_by" : 7866,
+    "rank" : 5744,
+    "popularity" : 2712,
+    "members" : 54783,
+    "favorites" : 201,
     "synopsis" : "Tricked into assassinating his own prospective father-in-law, righteous samurai Raizou Kurima is overwhelmed with guilt. In order to reclaim his honor, Raizou swears vengeance on the lord who gave him those misleading orders. In his pursuit, he is aided by self-proclaimed merchant-of-all-trades Yuuen Usui, who is actually one of the Revengers—assassins who seek justice for the wronged and dispense bloody revenge on their behalf.\n\nTragedy seems destined to follow Raizou as he becomes increasingly intertwined with members of the Revengers. As he begins working as a vigilante alongside them, the complicated web between the corrupt Japanese political elite, the unscrupulous Europeans, and the Revengers gradually reveals itself. The more entangled he becomes in these affairs, the more Raizou realizes that justice is as deceptive as the honor that he sought to redeem.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -5200,7 +5225,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672963200000,
+      "from" : "2023-01-06T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 6,
@@ -5219,11 +5244,11 @@
     "duration" : "22 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 7.34,
-    "scored_by" : 8685,
-    "rank" : 2365,
-    "popularity" : 2749,
-    "members" : 53121,
-    "favorites" : 266,
+    "scored_by" : 8878,
+    "rank" : 2415,
+    "popularity" : 2736,
+    "members" : 53661,
+    "favorites" : 274,
     "synopsis" : "In the kingdom of Highland, fairies lived freely until humans betrayed them. Once a fairy has been stripped of a wing, whoever possesses it holds the fairy's life in their hands. Taking advantage of this, humans enslaved fairies, but 15-year-old Ann Halford longs to see the day when fairies and humans are treated as equals.\n\nThe aspiring confectioner dreams of becoming a Silver Sugar Master just like her late mother. In order to achieve this lofty goal, Ann sets out for the capital of Lewiston, home to the annual Royal Candy Fair. However, to be bestowed the elusive title, Ann's confection crafted from silver sugar must be recognized with a royal medal at the event.\n\nAnn hires a sharp-tongued warrior fairy, Shall Fen Shall, to be her bodyguard for the perilous journey ahead. After saving him from his cruel fairy trader, she promises to return Shall's wing to him once they reach the capital, much to his confusion. But as the pair travel further along, the time they spend together grows, and they learn more about each other and their true desires.\n\n[Written by MAL Rewrite]",
     "background" : "Sugar Apple Fairy Tale was released on Blu-ray and DVD in two volumes by Kadokawa on April 26 and May 24, 2023, respectively.",
     "season" : "winter",
@@ -5359,7 +5384,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673136000000,
+      "from" : "2023-01-08T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 8,
@@ -5378,11 +5403,11 @@
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 6.76,
-    "scored_by" : 8769,
-    "rank" : 5217,
-    "popularity" : 2897,
-    "members" : 48286,
-    "favorites" : 128,
+    "scored_by" : 8938,
+    "rank" : 5194,
+    "popularity" : 2894,
+    "members" : 48673,
+    "favorites" : 129,
     "synopsis" : "Mitsuha Yamano could not have had it worse. After failing to enter her university of choice and losing her entire family in an accident, she finds herself plummeting off a cliff due to an especially fragile guardrail. Through what seems to be the only bit of the fortune left in her life, Mitsuha's firm unwillingness to die allows her to be transported to another world, where she ends up surviving.\n\nIn this foreign land, Mitsuha wanders around for days before collapsing from exhaustion and being rescued by a little girl named Colette. Not long after, she finds herself in yet another life-threatening situation, and her indomitable will shines once more, granting her an audience with a divine cosmic being. The entity reveals to Mitsuha that she has acquired not only superhuman regeneration but also the ability to transport between worlds at will.\n\nArmed with this new information, Mitsuha brainstorms ways to utilize her newfound power to its full potential. Realizing that she can take goods from Earth and resell them to the other world at a higher price, she resolves to save up eighty thousand gold coins to be able to retire comfortably.\n\n[Written by MAL Rewrite]",
     "background" : "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu was released on Blu-ray and DVD on May 31, 2023.",
     "season" : "winter",
@@ -5502,7 +5527,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673308800000,
+      "from" : "2023-01-10T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 10,
@@ -5510,9 +5535,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 10, 2023 to ?",
@@ -5520,12 +5545,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "R+ - Mild Nudity",
-    "score" : 6.51,
-    "scored_by" : 5840,
-    "rank" : 6614,
-    "popularity" : 2949,
-    "members" : 46723,
-    "favorites" : 209,
+    "score" : 6.5,
+    "scored_by" : 5943,
+    "rank" : 6668,
+    "popularity" : 2939,
+    "members" : 47052,
+    "favorites" : 211,
     "synopsis" : "Ayakashi are strange, supernatural creatures invisible to the majority of people. Though most are harmless, some ayakashi attack humans to devour their life force. Exorcist ninjas are tasked with protecting people from these spiteful spirits.\n\nMatsuri Kazamaki is a young exorcist ninja born to a prestigious clan. His childhood friend, Suzu Kanade, is an ayakashi medium—an individual with immense vitality that attracts ayakashi. Matsuri deems all ayakashi threatening and wishes to keep Suzu as far from them as possible, but this clashes with her desire to remain close to them. One day, the pair encounters Shirogane, the \"King of Ayakashi,\" who is hellbent on consuming Suzu. As she is about to be eaten, Matsuri comes to the rescue and manages to seal the ayakashi's powers—but not before Shirogane takes revenge by turning him into a girl!\n\nUntil he finds a way to transform back, Matsuri must adjust to his new, peculiar lifestyle while fighting against hostile ayakashi. Moreover, Suzu is now conflicted about her feelings toward Matsuri—further plunging their relationship into a state of ambiguity.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -5673,7 +5698,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673481600000,
+      "from" : "2023-01-12T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 12,
@@ -5692,10 +5717,10 @@
     "duration" : "22 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 6.77,
-    "scored_by" : 3988,
-    "rank" : 5136,
-    "popularity" : 3356,
-    "members" : 36932,
+    "scored_by" : 4053,
+    "rank" : 5131,
+    "popularity" : 3349,
+    "members" : 37083,
     "favorites" : 139,
     "synopsis" : "Humanity is facing extinction. In a snow-covered world where water has become scarce, the last habitable lands are located at the feet of gigantic Orbital Trees scattered about the desolated Earth. According to a legend, there exists a sage who knows the secret to producing abundant quantities of water to save mankind. \n\nLiliha, the princess of Atland, uses an organic hot-air balloon to climb to the top of an Orbital Tree in hopes of meeting her country's savior. Once she reaches the Canopy—an area that appears to be an infinite window of transparent ice—she meets Kaina, one of the last men alive on the Canopy. However, she can not find the man she was looking for.\n\nUnable to return by herself to her country, the princess finds a helping hand in Kaina, who is eager to explore the surface world that he thought was empty. As Kaina learns about the war against Liliha's country, the antagonistic technologically advanced nation Valghan, and other perils of the surface, he realizes that his escorting mission will prove more difficult than he imagined.\n\n[Written by MAL Rewrite]",
     "background" : null,
@@ -5765,152 +5790,6 @@
     } ],
     "demographics" : [ ]
   }, {
-    "mal_id" : 53179,
-    "url" : "https://myanimelist.net/anime/53179/Ars_no_Kyojuu",
-    "images" : {
-      "jpg" : {
-        "image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949.jpg",
-        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949t.jpg",
-        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949l.jpg"
-      },
-      "webp" : {
-        "image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949.webp",
-        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949t.webp",
-        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949l.webp"
-      },
-      "image_url" : null,
-      "small_image_url" : null,
-      "medium_image_url" : null,
-      "large_image_url" : null,
-      "maximum_image_url" : null
-    },
-    "trailer" : {
-      "youtube_id" : "ukE3G4b_K0w",
-      "url" : "https://www.youtube.com/watch?v=ukE3G4b_K0w",
-      "embed_url" : "https://www.youtube.com/embed/ukE3G4b_K0w?enablejsapi=1&wmode=opaque&autoplay=1",
-      "images" : {
-        "jpg" : null,
-        "webp" : null,
-        "image_url" : "https://img.youtube.com/vi/ukE3G4b_K0w/default.jpg",
-        "small_image_url" : "https://img.youtube.com/vi/ukE3G4b_K0w/sddefault.jpg",
-        "medium_image_url" : "https://img.youtube.com/vi/ukE3G4b_K0w/mqdefault.jpg",
-        "large_image_url" : "https://img.youtube.com/vi/ukE3G4b_K0w/hqdefault.jpg",
-        "maximum_image_url" : "https://img.youtube.com/vi/ukE3G4b_K0w/maxresdefault.jpg"
-      }
-    },
-    "approved" : true,
-    "titles" : [ {
-      "type" : "Default",
-      "title" : "Ars no Kyojuu"
-    }, {
-      "type" : "Japanese",
-      "title" : "アルスの巨獣"
-    }, {
-      "type" : "English",
-      "title" : "Giant Beasts of Ars"
-    } ],
-    "title" : "Ars no Kyojuu",
-    "title_english" : "Giant Beasts of Ars",
-    "title_japanese" : "アルスの巨獣",
-    "title_synonyms" : [ ],
-    "type" : "TV",
-    "source" : "Original",
-    "episodes" : 12,
-    "status" : "Currently Airing",
-    "airing" : true,
-    "aired" : {
-      "from" : 1673049600000,
-      "prop" : {
-        "from" : {
-          "day" : 7,
-          "month" : 1,
-          "year" : 2023
-        },
-        "to" : {
-          "day" : 25,
-          "month" : 3,
-          "year" : 2023
-        }
-      },
-      "string" : "Jan 7, 2023 to Mar 25, 2023",
-      "to" : "2023-03-25T00:00:00+00:00"
-    },
-    "duration" : "24 min per ep",
-    "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.46,
-    "scored_by" : 5072,
-    "rank" : 6877,
-    "popularity" : 3488,
-    "members" : 34295,
-    "favorites" : 76,
-    "synopsis" : "In the world of Ars, humans lead a decades-long war against giant beasts that ravage the lands and feed on their resources. Those tasked with fighting them are champions called nagimori, who utilize the destructive power of kannagi: beings gifted with uncontrollable magical powers.\n\nWhile mourning the death of his war partner, former nagimori Jiiro crosses paths with Kuumi, a young woman who has just awakened her magical powers. After the pair form a contract to save the city from a giant beast attack, Jiiro learns that Kuumi has escaped a laboratory and is being hunted by the underlings of Mezami, the head of the research facility.\n\nReluctantly agreeing to help Kuumi flee from her pursuers, Jiiro starts traveling with his new partner and her friend Myaa, a young girl with a cat headdress. As the unlikely trio wanders the Arsian lands, top officials begin setting their plans into motion—and the group of adventurers soon discover that men are to be feared more than monsters.\n\n[Written by MAL Rewrite]",
-    "background" : "Ars no Kyojuu was released on Blu-ray in two volumes from May 31, 2023, to June 28, 2023.",
-    "season" : "winter",
-    "year" : 2023,
-    "broadcast" : {
-      "day" : "Saturdays",
-      "time" : "01:25",
-      "timezone" : "Asia/Tokyo",
-      "string" : "Saturdays at 01:25 (JST)"
-    },
-    "producers" : [ {
-      "mal_id" : 143,
-      "type" : "anime",
-      "name" : "Mainichi Broadcasting System",
-      "url" : "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
-    }, {
-      "mal_id" : 376,
-      "type" : "anime",
-      "name" : "Sentai Filmworks",
-      "url" : "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
-    }, {
-      "mal_id" : 1414,
-      "type" : "anime",
-      "name" : "bilibili",
-      "url" : "https://myanimelist.net/anime/producer/1414/bilibili"
-    }, {
-      "mal_id" : 1542,
-      "type" : "anime",
-      "name" : "DMM.com",
-      "url" : "https://myanimelist.net/anime/producer/1542/DMMcom"
-    }, {
-      "mal_id" : 2074,
-      "type" : "anime",
-      "name" : "Bit grooove promotion",
-      "url" : "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
-    }, {
-      "mal_id" : 2146,
-      "type" : "anime",
-      "name" : "NetEase",
-      "url" : "https://myanimelist.net/anime/producer/2146/NetEase"
-    } ],
-    "licensors" : [ ],
-    "studios" : [ {
-      "mal_id" : 406,
-      "type" : "anime",
-      "name" : "Asahi Production",
-      "url" : "https://myanimelist.net/anime/producer/406/Asahi_Production"
-    } ],
-    "genres" : [ {
-      "mal_id" : 1,
-      "type" : "anime",
-      "name" : "Action",
-      "url" : "https://myanimelist.net/anime/genre/1/Action"
-    }, {
-      "mal_id" : 2,
-      "type" : "anime",
-      "name" : "Adventure",
-      "url" : "https://myanimelist.net/anime/genre/2/Adventure"
-    }, {
-      "mal_id" : 10,
-      "type" : "anime",
-      "name" : "Fantasy",
-      "url" : "https://myanimelist.net/anime/genre/10/Fantasy"
-    } ],
-    "explicit_genres" : [ ],
-    "themes" : [ ],
-    "demographics" : [ ]
-  }, {
     "mal_id" : 52826,
     "url" : "https://myanimelist.net/anime/52826/Tsurune__Tsunagari_no_Issha",
     "images" : {
@@ -5968,7 +5847,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672876800000,
+      "from" : "2023-01-05T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 5,
@@ -5986,12 +5865,12 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 7.84,
-    "scored_by" : 3199,
-    "rank" : 844,
-    "popularity" : 3492,
-    "members" : 34202,
-    "favorites" : 194,
+    "score" : 7.85,
+    "scored_by" : 3247,
+    "rank" : 814,
+    "popularity" : 3477,
+    "members" : 34451,
+    "favorites" : 195,
     "synopsis" : "Despite the prefectural tournament's breathtaking conclusion, the Kazemai High School Kyudo Club has no time to celebrate. With the national competition right around the corner, the club is determined to prove that their initial victory was not a mere fluke.\n\nWith his passion for the sport reignited, Minato Narumiya earnestly prepares for the upcoming competition with his teammates, who are equally motivated to win. As the much-anticipated tournament begins, the members of Kazemai's kyudo team fight to stay on target with their ambitious goal. But when old acquaintances reappear as difficult opponents, the boys find that winning the nationals will require more dedication and effort than ever before.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -6060,6 +5939,152 @@
     } ],
     "demographics" : [ ]
   }, {
+    "mal_id" : 53179,
+    "url" : "https://myanimelist.net/anime/53179/Ars_no_Kyojuu",
+    "images" : {
+      "jpg" : {
+        "image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949.jpg",
+        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949t.jpg",
+        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949l.jpg"
+      },
+      "webp" : {
+        "image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949.webp",
+        "small_image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949t.webp",
+        "large_image_url" : "https://cdn.myanimelist.net/images/anime/1866/133949l.webp"
+      },
+      "image_url" : null,
+      "small_image_url" : null,
+      "medium_image_url" : null,
+      "large_image_url" : null,
+      "maximum_image_url" : null
+    },
+    "trailer" : {
+      "youtube_id" : "ukE3G4b_K0w",
+      "url" : "https://www.youtube.com/watch?v=ukE3G4b_K0w",
+      "embed_url" : "https://www.youtube.com/embed/ukE3G4b_K0w?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images" : {
+        "jpg" : null,
+        "webp" : null,
+        "image_url" : "https://img.youtube.com/vi/ukE3G4b_K0w/default.jpg",
+        "small_image_url" : "https://img.youtube.com/vi/ukE3G4b_K0w/sddefault.jpg",
+        "medium_image_url" : "https://img.youtube.com/vi/ukE3G4b_K0w/mqdefault.jpg",
+        "large_image_url" : "https://img.youtube.com/vi/ukE3G4b_K0w/hqdefault.jpg",
+        "maximum_image_url" : "https://img.youtube.com/vi/ukE3G4b_K0w/maxresdefault.jpg"
+      }
+    },
+    "approved" : true,
+    "titles" : [ {
+      "type" : "Default",
+      "title" : "Ars no Kyojuu"
+    }, {
+      "type" : "Japanese",
+      "title" : "アルスの巨獣"
+    }, {
+      "type" : "English",
+      "title" : "Giant Beasts of Ars"
+    } ],
+    "title" : "Ars no Kyojuu",
+    "title_english" : "Giant Beasts of Ars",
+    "title_japanese" : "アルスの巨獣",
+    "title_synonyms" : [ ],
+    "type" : "TV",
+    "source" : "Original",
+    "episodes" : 12,
+    "status" : "Currently Airing",
+    "airing" : true,
+    "aired" : {
+      "from" : "2023-01-07T00:00:00+00:00",
+      "prop" : {
+        "from" : {
+          "day" : 7,
+          "month" : 1,
+          "year" : 2023
+        },
+        "to" : {
+          "day" : 25,
+          "month" : 3,
+          "year" : 2023
+        }
+      },
+      "string" : "Jan 7, 2023 to Mar 25, 2023",
+      "to" : "2023-03-25T00:00:00+00:00"
+    },
+    "duration" : "24 min per ep",
+    "rating" : "PG-13 - Teens 13 or older",
+    "score" : 6.45,
+    "scored_by" : 5145,
+    "rank" : 6928,
+    "popularity" : 3478,
+    "members" : 34445,
+    "favorites" : 77,
+    "synopsis" : "In the world of Ars, humans lead a decades-long war against giant beasts that ravage the lands and feed on their resources. Those tasked with fighting them are champions called nagimori, who utilize the destructive power of kannagi: beings gifted with uncontrollable magical powers.\n\nWhile mourning the death of his war partner, former nagimori Jiiro crosses paths with Kuumi, a young woman who has just awakened her magical powers. After the pair form a contract to save the city from a giant beast attack, Jiiro learns that Kuumi has escaped a laboratory and is being hunted by the underlings of Mezami, the head of the research facility.\n\nReluctantly agreeing to help Kuumi flee from her pursuers, Jiiro starts traveling with his new partner and her friend Myaa, a young girl with a cat headdress. As the unlikely trio wanders the Arsian lands, top officials begin setting their plans into motion—and the group of adventurers soon discover that men are to be feared more than monsters.\n\n[Written by MAL Rewrite]",
+    "background" : "Ars no Kyojuu was released on Blu-ray in two volumes from May 31, 2023, to June 28, 2023.",
+    "season" : "winter",
+    "year" : 2023,
+    "broadcast" : {
+      "day" : "Saturdays",
+      "time" : "01:25",
+      "timezone" : "Asia/Tokyo",
+      "string" : "Saturdays at 01:25 (JST)"
+    },
+    "producers" : [ {
+      "mal_id" : 143,
+      "type" : "anime",
+      "name" : "Mainichi Broadcasting System",
+      "url" : "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    }, {
+      "mal_id" : 376,
+      "type" : "anime",
+      "name" : "Sentai Filmworks",
+      "url" : "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+    }, {
+      "mal_id" : 1414,
+      "type" : "anime",
+      "name" : "bilibili",
+      "url" : "https://myanimelist.net/anime/producer/1414/bilibili"
+    }, {
+      "mal_id" : 1542,
+      "type" : "anime",
+      "name" : "DMM.com",
+      "url" : "https://myanimelist.net/anime/producer/1542/DMMcom"
+    }, {
+      "mal_id" : 2074,
+      "type" : "anime",
+      "name" : "Bit grooove promotion",
+      "url" : "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+    }, {
+      "mal_id" : 2146,
+      "type" : "anime",
+      "name" : "NetEase",
+      "url" : "https://myanimelist.net/anime/producer/2146/NetEase"
+    } ],
+    "licensors" : [ ],
+    "studios" : [ {
+      "mal_id" : 406,
+      "type" : "anime",
+      "name" : "Asahi Production",
+      "url" : "https://myanimelist.net/anime/producer/406/Asahi_Production"
+    } ],
+    "genres" : [ {
+      "mal_id" : 1,
+      "type" : "anime",
+      "name" : "Action",
+      "url" : "https://myanimelist.net/anime/genre/1/Action"
+    }, {
+      "mal_id" : 2,
+      "type" : "anime",
+      "name" : "Adventure",
+      "url" : "https://myanimelist.net/anime/genre/2/Adventure"
+    }, {
+      "mal_id" : 10,
+      "type" : "anime",
+      "name" : "Fantasy",
+      "url" : "https://myanimelist.net/anime/genre/10/Fantasy"
+    } ],
+    "explicit_genres" : [ ],
+    "themes" : [ ],
+    "demographics" : [ ]
+  }, {
     "mal_id" : 43760,
     "url" : "https://myanimelist.net/anime/43760/Hikari_no_Ou",
     "images" : {
@@ -6110,11 +6135,11 @@
     "title_synonyms" : [ ],
     "type" : "TV",
     "source" : "Novel",
-    "episodes" : 0,
-    "status" : "Currently Airing",
-    "airing" : true,
+    "episodes" : 10,
+    "status" : "Finished Airing",
+    "airing" : false,
     "aired" : {
-      "from" : 1673654400000,
+      "from" : "2023-01-14T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 14,
@@ -6122,22 +6147,22 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 18,
+          "month" : 3,
+          "year" : 2023
         }
       },
-      "string" : "Jan 14, 2023 to ?",
-      "to" : null
+      "string" : "Jan 14, 2023 to Mar 18, 2023",
+      "to" : "2023-03-18T00:00:00+00:00"
     },
-    "duration" : "24 min",
+    "duration" : "24 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.61,
-    "scored_by" : 3781,
-    "rank" : 5989,
-    "popularity" : 3504,
-    "members" : 33797,
-    "favorites" : 70,
+    "score" : 6.49,
+    "scored_by" : 4141,
+    "rank" : 6749,
+    "popularity" : 3500,
+    "members" : 33907,
+    "favorites" : 72,
     "synopsis" : "Human civilization no longer revolves around fire, but is instead now driven by fear of it. Repeated wars have changed human biology, and people now spontaneously combust when they get close to natural flame. However, a new source of energy prevents society from complete collapse: a stone-shaped material used to produce light and steam lies within the bodies of monsters that infest numerous forests. Those tasked with collecting this precious resource are called fire hunters.\n\nTouko, a young village girl, is saved from a forest monster by a fire hunter who perishes during his heroic action. After the hunter's dog, Kanata, heals from his own injury, the girl's family sends her to the capital in order to return Kanata and the hunter's fire sickle to his relatives.\n\nElsewhere, the fire hunter's son, Koushi, and his sister are adopted by a wealthy family. Koushi learns some troubling facts related to the country's ruling royal family. He conducts secret research on a special fire stone found by his late father, kickstarting a race against time between the country's leaders and those trying to save mankind from its ultimate demise.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -6235,7 +6260,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673308800000,
+      "from" : "2023-01-10T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 10,
@@ -6254,11 +6279,11 @@
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 6.72,
-    "scored_by" : 4472,
-    "rank" : 5402,
-    "popularity" : 3567,
-    "members" : 32530,
-    "favorites" : 125,
+    "scored_by" : 4537,
+    "rank" : 5429,
+    "popularity" : 3556,
+    "members" : 32737,
+    "favorites" : 128,
     "synopsis" : "Saenome are tasked with sealing spirits that possess objects and pose a threat to society. Known as tsukumogami, these spirits are generally non-violent, and saenome normally seal them after a simple verbal exchange.\n\nTraumatized by a previous deadly encounter with a malevolent spirit, Hyouma Kunato refuses to use peaceful methods and gets into physical confrontations with all tsukumogami that cross paths with him. Deeming this behavior unacceptable for a future clan leader, Hyouma's grandfather, Zouhei, proposes that he starts living with Botan Nagatsuki, a young woman whose family is composed of six tsukumogami—lest he be excommunicated.\n\nDetermined to track down the spirit that took everything from him, Hyouma reluctantly accepts Zouhei's proposal. As unknown groups of evil spirits begin to jeopardize the balance between worlds, the young man must gain the trust of Botan and overcome his hatred for her mysterious family.\n\n[Written by MAL Rewrite]",
     "background" : "Mononogatari was released on Blu-ray in two volumes from April 5, 2023, to June 2, 2023.",
     "season" : "winter",
@@ -6399,7 +6424,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673136000000,
+      "from" : "2023-01-08T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 8,
@@ -6417,11 +6442,11 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 5.87,
-    "scored_by" : 3473,
-    "rank" : 10128,
-    "popularity" : 3845,
-    "members" : 28100,
+    "score" : 5.85,
+    "scored_by" : 3527,
+    "rank" : 10241,
+    "popularity" : 3840,
+    "members" : 28204,
     "favorites" : 106,
     "synopsis" : "For many years following the North Ambrian Disaster, North Ambria has been known as the poorest region in Zemuria. After the state suffered a major loss due to the mysterious Salt Pale turning citizens and buildings into salt, the economy has never truly recovered. Out of necessity to secure foreign investment for the state, the former state military has turned into a group of mercenaries known as the Northern Jaegers.\n\nWishing to join the largest group of mercenaries on the continent, Lavian \"Lavi\" Winslet, a promising rookie, enlists with the Northern Jaegers. Although she has only been with them for half a year, the reserved but capable Lavi Winslet is well respected by her peers. When Lavi and her team are tasked with gathering information regarding the Imperial Hero of Erebonia—a new threat to the state—she discovers that there may be more to the continent's intricate politics than meets the eye.\n\n[Written by MAL Rewrite]",
     "background" : "Each episode was streamed two days in advance of the TV broadcast starting on January 6, 2023, on DMM TV. Regular broadcasting began on January 8, 2023.",
@@ -6535,7 +6560,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673136000000,
+      "from" : "2023-01-08T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 8,
@@ -6543,9 +6568,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 8, 2023 to ?",
@@ -6553,11 +6578,11 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.64,
-    "scored_by" : 4122,
-    "rank" : 5874,
-    "popularity" : 3855,
-    "members" : 27959,
+    "score" : 6.63,
+    "scored_by" : 4194,
+    "rank" : 5918,
+    "popularity" : 3847,
+    "members" : 28135,
     "favorites" : 86,
     "synopsis" : "Wisteria is an orphan girl living in a corner of the British Empire at the end of the 19th century. Her life is desolate and bleak–until she encounters Marbas, a powerful but equally lonely immortal being with a furry appearance, hounded by hunters. Together, Wisteria and Marbas roam the Empire–populated by humans and human-like beasts–in search of a place where they can live together in peace. \n\n(Source: Seven Seas Entertainment)",
     "background" : null,
@@ -6694,7 +6719,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673222400000,
+      "from" : "2023-01-09T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 9,
@@ -6713,10 +6738,10 @@
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 7.47,
-    "scored_by" : 2632,
-    "rank" : 1811,
-    "popularity" : 4208,
-    "members" : 23194,
+    "scored_by" : 2673,
+    "rank" : 1833,
+    "popularity" : 4202,
+    "members" : 23310,
     "favorites" : 80,
     "synopsis" : "Second season of Kyuuketsuki Sugu Shinu.",
     "background" : null,
@@ -6865,7 +6890,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673222400000,
+      "from" : "2023-01-09T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 9,
@@ -6873,9 +6898,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 9, 2023 to ?",
@@ -6883,11 +6908,11 @@
     },
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.74,
-    "scored_by" : 2290,
-    "rank" : 5297,
-    "popularity" : 4943,
-    "members" : 15825,
+    "score" : 6.75,
+    "scored_by" : 2309,
+    "rank" : 5265,
+    "popularity" : 4936,
+    "members" : 15885,
     "favorites" : 24,
     "synopsis" : "The happy-go-lucky Michi Sonoda announces to her teammate, Sanae Takigawa, that she will quit judo for good after her final middle school tournament. This leaves Sanae in disbelief; after all, it was Michi's passion toward the sport that reeled Sanae into judo in the first place. Michi claims that a well-spent youth should be associated with things such as getting a boyfriend rather than sweaty tatami mats.\n\nHowever, Michi's plan to end her fledgling judo career with a bang is spoiled after experiencing an embarrassing defeat at the hands of the talented Towa Hiura. Later, her plan is further derailed when she finds out that Towa has enrolled in the same high school as herself and Sanae. With the sudden appearance of her past foe, Michi may soon realize that she still has lingering feelings for the sport of judo.\n\n[Written by MAL Rewrite]",
     "background" : null,
@@ -7016,7 +7041,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673568000000,
+      "from" : "2023-01-13T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 13,
@@ -7034,12 +7059,12 @@
     },
     "duration" : "24 min per ep",
     "rating" : "PG - Children",
-    "score" : 7.73,
-    "scored_by" : 2207,
-    "rank" : 1061,
-    "popularity" : 5041,
-    "members" : 14955,
-    "favorites" : 102,
+    "score" : 7.72,
+    "scored_by" : 2287,
+    "rank" : 1105,
+    "popularity" : 5029,
+    "members" : 15069,
+    "favorites" : 104,
     "synopsis" : "By embracing challenges, learning from failures, overcoming obstacles, and beating the best in the world, Satoshi finally achieves his long-held dream. His adventurous spirit, however, still runs high as he continues to explore new regions, witness unfamiliar Pokémon, and forge unexpected friendships and rivalries.\n\nAs the world opens its vast horizons to Satoshi, he once more encounters the people who helped shape his momentous path to success. A legendary journey nears its end just as an entirely new one is about to begin, with the bond between humans and Pokémon continuing forevermore.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -7144,7 +7169,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672876800000,
+      "from" : "2023-01-05T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 5,
@@ -7162,12 +7187,12 @@
     },
     "duration" : "24 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 5.66,
-    "scored_by" : 1397,
-    "rank" : 11065,
-    "popularity" : 5596,
-    "members" : 11503,
-    "favorites" : 57,
+    "score" : 5.67,
+    "scored_by" : 1407,
+    "rank" : 11037,
+    "popularity" : 5591,
+    "members" : 11545,
+    "favorites" : 60,
     "synopsis" : "Due to rising sea levels and a rapidly declining human population, androids have been engineered to perform most menial tasks, allowing humans to focus on other things. Aside from providing manual labor and customer service, androids also entertain humans through Babel—a tower where participants captivate audiences with song and dance to clear Climb Stages. The higher the climb, the more prize money is awarded.\n\nAndroids Cobalt, Chrom, Neon, and Kei are down on their luck and about to have their electricity cut off from unpaid bills. Desperate to make a quick buck, the group decide to become Babel climbers. However, winning the audience's favor is a great challenge. Dejected but unwilling to give up, Cobalt resolves to somehow improve their chances after watching an impressive performance by STAND-ALONE—the top climber unit.\n\nWhen the group stumbles across a mysterious choreographer willing to give away his routine, Cobalt sees this as their only way up. With the help of their human companion, Esora Shibaura, the androids form the unit KNoCC to tackle the daunting climb to the top of Babel, but they must also overcome android-based discrimination along the way.\n\n[Written by MAL Rewrite]",
     "background" : "Technoroid: Overmind is a part of the 2021 mixed media project Technoroid by CyberAgent, Avex Pictures, and Elements Garden. The anime was released on Blu-ray and DVD in four volumes from March 29, 2023, to June 28, 2023.",
     "season" : "winter",
@@ -7306,7 +7331,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1674000000000,
+      "from" : "2023-01-18T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 18,
@@ -7314,9 +7339,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 18, 2023 to ?",
@@ -7325,10 +7350,10 @@
     "duration" : "23 min",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 6.29,
-    "scored_by" : 642,
-    "rank" : 7895,
-    "popularity" : 5697,
-    "members" : 10976,
+    "scored_by" : 649,
+    "rank" : 7914,
+    "popularity" : 5688,
+    "members" : 11032,
     "favorites" : 46,
     "synopsis" : "Third season of Majutsushi Orphen Hagure Tabi.",
     "background" : null,
@@ -7482,7 +7507,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1672963200000,
+      "from" : "2023-01-06T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 6,
@@ -7500,12 +7525,12 @@
     },
     "duration" : "3 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.72,
-    "scored_by" : 1381,
-    "rank" : 5406,
-    "popularity" : 6209,
-    "members" : 8966,
-    "favorites" : 35,
+    "score" : 6.71,
+    "scored_by" : 1401,
+    "rank" : 5433,
+    "popularity" : 6193,
+    "members" : 9026,
+    "favorites" : 36,
     "synopsis" : "Short anime based on the 4-koma series illustrating the daily lives of the Nijigasaki High School Idol Club’s members.",
     "background" : null,
     "season" : "winter",
@@ -7615,7 +7640,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673568000000,
+      "from" : "2023-01-13T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 13,
@@ -7634,11 +7659,11 @@
     "duration" : "23 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 7.45,
-    "scored_by" : 1220,
-    "rank" : 1892,
-    "popularity" : 6239,
-    "members" : 8861,
-    "favorites" : 66,
+    "scored_by" : 1241,
+    "rank" : 1909,
+    "popularity" : 6222,
+    "members" : 8917,
+    "favorites" : 68,
     "synopsis" : "Arisugawa Academy's DJ unit Lyrical Lily is known for bringing smiles to people's faces through music. Thanks to their efforts, the local city hall requests them to perform monthly for a year as part of Operation Beckoning Cat, the town revitalization project.\n\nUnfortunately, given the long and demanding event, Lyrical Lily wonders if they can successfully meet the expectations placed on them. To better their chances, they decide to invite the DJ units that supported them during their first performance: Happy Around, Photo Maiden, Peaky P-key, Rondo, and Merm4id. Intrigued by the opportune event, the other units gladly accept Lyrical Lily's request.\n\nHowever, the project is extremely demanding. To attract visitors and new residents to the town, the energetic girls of the participating DJ units must give their best to create a memorable experience for their audiences.\n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -7768,7 +7793,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673049600000,
+      "from" : "2023-01-07T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 7,
@@ -7776,9 +7801,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 7, 2023 to ?",
@@ -7787,10 +7812,10 @@
     "duration" : "24 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 6.91,
-    "scored_by" : 1044,
-    "rank" : 4468,
-    "popularity" : 6976,
-    "members" : 6648,
+    "scored_by" : 1051,
+    "rank" : 4443,
+    "popularity" : 6969,
+    "members" : 6676,
     "favorites" : 51,
     "synopsis" : "Akira Kiyose, a high schooler who loves to sing, gets recruited by a talent agency called sMiLea Production. Akira learns that the legendary idols \"Anela,\" who shocked the world with their sudden retirement, are behind the agency developing talent. Together with Banri Naoe and Chihiro Isuzugawa, also recruited by the agency, they form an idol group as they chase their dream towards super stardom alongside other idol groups \"LEGIT\" and \"JAXX/JAXX.\"\n\n(Source: Aniplex USA, edited)",
     "background" : null,
@@ -7846,6 +7871,16 @@
     "demographics" : [ ]
   } ]
 }, {
+  "pagination" : {
+    "last_visible_page" : 3,
+    "has_next_page" : false,
+    "current_page" : 3,
+    "items" : {
+      "count" : 6,
+      "total" : 56,
+      "per_page" : 25
+    }
+  },
   "data" : [ {
     "mal_id" : 51940,
     "url" : "https://myanimelist.net/anime/51940/Boku_to_Roboko",
@@ -7907,7 +7942,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1670198400000,
+      "from" : "2022-12-05T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 5,
@@ -7915,9 +7950,9 @@
           "year" : 2022
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Dec 5, 2022 to ?",
@@ -7925,12 +7960,12 @@
     },
     "duration" : "3 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.35,
-    "scored_by" : 932,
-    "rank" : 7567,
-    "popularity" : 7561,
-    "members" : 5457,
-    "favorites" : 22,
+    "score" : 6.37,
+    "scored_by" : 951,
+    "rank" : 7419,
+    "popularity" : 7542,
+    "members" : 5505,
+    "favorites" : 23,
     "synopsis" : "Robotic OrderMaids are popping up in every household, and 10-year-old Bondo Taira has found out that his two closest friends—Motsuo and Gachi Gorilla—have OrderMaids too. Motsuo, in particular, owns Meico, a beautiful robot that gives excellent massages and serves drinks with a smile. Jealous of his friend, Bondo convinces his mother to get him an OrderMaid, hoping for a similar experience.\n\nHowever, to Bondo's surprise, the maid that appears outside of his door is incredibly muscular and clumsy enough to destroy a house when completing simple chores. Going by the name Roboko, this new robot is the exact opposite of what Bondo wanted. But despite that, Bondo, together with his friends, learns that there is more to Roboko than they could ever expect. \n\n[Written by MAL Rewrite]",
     "background" : null,
     "season" : "winter",
@@ -8033,7 +8068,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1675555200000,
+      "from" : "2023-02-05T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 5,
@@ -8041,9 +8076,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Feb 5, 2023 to ?",
@@ -8052,11 +8087,11 @@
     "duration" : "24 min",
     "rating" : "G - All Ages",
     "score" : 7.67,
-    "scored_by" : 744,
-    "rank" : 1223,
-    "popularity" : 7893,
-    "members" : 4957,
-    "favorites" : 46,
+    "scored_by" : 766,
+    "rank" : 1214,
+    "popularity" : 7838,
+    "members" : 5039,
+    "favorites" : 47,
     "synopsis" : "A major incident in peaceful Skyland?! The infant princess Ellee-chan has been kidnapped by a monster from the Undergu Empire! A brave girl named Sora follows the princess into a strange hole. It leads her to another world called Sorashido City. Televisions? Bicycles? Are these magical devices?!?! There's no time to be surprised! Sora has to take the princess back to the castle as soon as possible! Flying between two worlds! This is the beginning of a Precure adventure! It's hero time!\n\nSource: Toei Animation USA",
     "background" : null,
     "season" : "winter",
@@ -8159,7 +8194,7 @@
     "status" : "Finished Airing",
     "airing" : false,
     "aired" : {
-      "from" : 1673913600000,
+      "from" : "2023-01-17T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 17,
@@ -8179,9 +8214,9 @@
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 0.0,
     "scored_by" : 0,
-    "rank" : 19092,
-    "popularity" : 8496,
-    "members" : 4032,
+    "rank" : 19100,
+    "popularity" : 8483,
+    "members" : 4066,
     "favorites" : 29,
     "synopsis" : "Iko, a third grader, lives with his four older brothers in an old house in Tateyama. Iko's family has no parents, and according to his older brothers, their mother works in Tokyo. Despite being a bit eccentric, Iko loves his brothers, who take good care of him, but they have a secret: they are wizards who live almost forever... The story unfolds of a family's summer vacation in a seaside town, happily living together while being caught up in the world of wizards.\n\n(Source: Comic Natalie, translated)",
     "background" : null,
@@ -8265,7 +8300,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673654400000,
+      "from" : "2023-01-14T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 14,
@@ -8283,11 +8318,11 @@
     },
     "duration" : "24 min per ep",
     "rating" : "PG-13 - Teens 13 or older",
-    "score" : 6.59,
-    "scored_by" : 223,
-    "rank" : 6088,
-    "popularity" : 9407,
-    "members" : 2906,
+    "score" : 6.6,
+    "scored_by" : 230,
+    "rank" : 6029,
+    "popularity" : 9379,
+    "members" : 2939,
     "favorites" : 11,
     "synopsis" : "Second season of Cardfight!! Vanguard: will+Dress.",
     "background" : null,
@@ -8394,7 +8429,7 @@
     "status" : "Currently Airing",
     "airing" : true,
     "aired" : {
-      "from" : 1673222400000,
+      "from" : "2023-01-09T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 9,
@@ -8402,9 +8437,9 @@
           "year" : 2023
         },
         "to" : {
-          "day" : null,
-          "month" : null,
-          "year" : null
+          "day" : 0,
+          "month" : 0,
+          "year" : 0
         }
       },
       "string" : "Jan 9, 2023 to ?",
@@ -8414,9 +8449,9 @@
     "rating" : "PG-13 - Teens 13 or older",
     "score" : 0.0,
     "scored_by" : 0,
-    "rank" : 13834,
-    "popularity" : 11430,
-    "members" : 1407,
+    "rank" : 13836,
+    "popularity" : 11433,
+    "members" : 1414,
     "favorites" : 10,
     "synopsis" : "Sequel to KJ File.",
     "background" : null,
@@ -8512,7 +8547,7 @@
     "status" : "Not yet aired",
     "airing" : false,
     "aired" : {
-      "from" : 1679356800000,
+      "from" : "2023-03-21T00:00:00+00:00",
       "prop" : {
         "from" : {
           "day" : 21,
@@ -8533,8 +8568,8 @@
     "score" : 0.0,
     "scored_by" : 0,
     "rank" : 0,
-    "popularity" : 15607,
-    "members" : 394,
+    "popularity" : 15570,
+    "members" : 398,
     "favorites" : 1,
     "synopsis" : "The story of a cat who's drawn to the scent of tears and goes to those who are crying in an attempt to comfort or encourage them.\n\n(Source: Baka-Updates)",
     "background" : null,

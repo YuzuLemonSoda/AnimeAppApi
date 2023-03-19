@@ -7,9 +7,9 @@ import java.util.Date;
 
 @Data
 public class Aired {
-    public Date from;
+    public String from;
     @JsonProperty("to")
-    public Object myto;
+    public String myto;
     public Prop prop;
     public String string;
 }
