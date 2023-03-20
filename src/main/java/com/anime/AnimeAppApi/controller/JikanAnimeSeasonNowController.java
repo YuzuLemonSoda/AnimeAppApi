@@ -24,7 +24,7 @@ public class JikanAnimeSeasonNowController {
     private MongoTemplate mongoTemplate;
 
     @GetMapping("/seasonNow/")
-    public ResponseEntity<Root> getAnimeSeasonNowByPage(@RequestParam(value = "current_page") int current_page) {
+    public ResponseEntity<Root> getAnimeSeasonNowByPage(@RequestParam(value = "current_page", defaultValue = "1") int current_page) {
 
         Query query = new Query();
         query.addCriteria(Criteria.where("pagination.current_page").is(current_page));
